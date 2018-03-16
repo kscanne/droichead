@@ -151,7 +151,8 @@ agúid_nf	agúid	bain	244	acuit
 agus_conj	agus	cón	33484	2 ocus
 aibéil_a	aibéil	aid	1565	aipéil
 aibéil_nf	aibéil	bain	1566	aipéile
-áibhéil	áibhéil		830	aidbéil
+áibhéil_a	áibhéil	aid	830	aidbéil
+áibhéil_nf	áibhéil	bain	830	aidbéil
 aibhéis_nf	aibhéis	bain	737	aibis, aibís
 áibhirseoir_nm	áibhirseoir	fir	835	aidbirseóir
 áibhirseoireacht_nf	áibhirseoireacht	bain	836	aidbirseóirecht
@@ -196,7 +197,7 @@ aife_nf	aife	bain	2550	aithbe
 aiféala_nm	aiféala	fir	2745	aithméla
 aiféalach_a	aiféalach	aid	2746	aithmélach
 aiféaltas_nm	aiféaltas	fir	2747	aithméltas
-aifearach	aifearach		2561	aithbirach
+aifearach_a	aifearach	aid	2561	aithbirach
 áiféis_nf	áiféis	bain	724	áibéis
 aifir_v	aifir	br	2563	2 aithbiraid
 aifirt_nf	aifirt	bain	2557	aithber
@@ -252,8 +253,9 @@ aimhleasc_a	aimhleasc	aid	889	aidlesc
 aimhleisce_nf	aimhleisce	bain	885	aidleisce
 aimhneart_nm	aimhneart	fir	1130	1 aimnert
 aimhneartach_a	aimhneartach	aid	1132	aimnertach
-aimhréidh	aimhréidh		1136	aimréid
-aimhréidh	aimhréidh		1137	aimréide
+aimhréidh_a	aimhréidh	aid	1136	aimréid
+aimhréidh_nf	aimhréidh	bain	1136	aimréid
+aimhréidh_nf	aimhréidh	bain	1137	aimréide
 aimhréiteach_nm	aimhréiteach	fir	1139	aimréi(d)tech
 aimhrialta_a	aimhrialta	aid	3212	amríagalta
 aimhriar_nf	aimhriar	bain	1143	aimríar
@@ -278,10 +280,11 @@ ainbhiosach_a	ainbhiosach	aid	1328	ainfesach
 ainbhiosán_nm	ainbhiosán	fir	1355	ainfisán
 ainbhreith_nf	ainbhreith	bain	1179	ainbreith
 ainbhreitheach_a	ainbhreitheach	aid	1180	ainbrethach
-aincheart	aincheart		1193	ainchert
+aincheart_nm	aincheart	fir	1193	ainchert
 aincheas_nm	aincheas	fir	1190	ainces
 ainchreideamh_nm	ainchreideamh	fir	1202	ainc(h)reitem
-ainchreidmheach	ainchreidmheach		1203	ainc(h)reitmech
+ainchreidmheach_a	ainchreidmheach	aid	1203	ainc(h)reitmech
+ainchreidmheach_nm	ainchreidmheach	fir	1203	ainc(h)reitmech
 Ainchríost_nm	Ainchríost	fir	1206	Ainc(h)rist
 Ainchríost_nm	Ainchríost	fir	1551	Ainticríst
 ainchríostaí_nm	ainchríostaí	fir	1207	ainchrístaide
@@ -345,9 +348,9 @@ ainmhín_a	ainmhín	aid	1466	ainmín
 ainmhíne_nf	ainmhíne	bain	1467	ainmíne
 ainmhinic_a	ainmhinic	aid	1445	ainmeinic
 ainmhíoch_a	ainmhíoch	aid	1464	ainmidech
-ainmneach	ainmneach		1473	ainmmnech
 ainmní_nm	ainmní	fir	1475	ainmmnid
 ainmnigh_v	ainmnigh	br	1476	ainmmnigidir
+ainmniúil_a	ainmniúil	aid	1473	ainmmnech
 ainmniúil_a	ainmniúil	aid	1474	ainmmnemail
 ainneart_nm	ainneart	fir	1488	ainnert
 ainneoin_s	ainneoin	af	1221	aindeóin
@@ -397,15 +400,17 @@ aireamh_nm	aireamh	fir	1926	airem
 áireamh_nm	áireamh	fir	1927	áirem
 airear_nm	airear	fir	1931	2 airer
 airgead_nm	airgead	fir	4140	argat
-áirgheach	áirgheach		2030	áirgech
+áirgheach_a	áirgheach	aid	2030	áirgech
+áirgheach_nm	áirgheach	fir	2030	áirgech
 airgtheach_a	airgtheach	aid	1666	aircech
 airí_nf	airí	bain	2103	1 airigid
 airí_nm	airí	fir	1812	1 airde
 áirí_nf	áirí	bain	2027	áirge
 airigh_v	airigh	br	2105	airigidir
 áirigh_v	áirigh	br	2270	áirmigid
-áirithe	áirithe		14292	dáirithe
-áirithe	áirithe		2143	áirithe
+áirithe_a	áirithe	aid	14292	dáirithe
+áirithe_a	áirithe	aid	2143	áirithe
+áirithe_nf	áirithe	bain	2143	áirithe
 airle_nf	airle	bain	2185	1 airle
 airleacan_nm	airleacan	fir	2212	airlicud
 airm_s	airm	af	2231	airm
@@ -434,7 +439,7 @@ aiséirigh_v	aiséirigh	br	20490	eséirgid
 aiséirigh_v	aiséirigh	br	4429	as-éirig
 aisig_v	aisig	br	2489	aisicid
 aisling_nf	aisling	bain	2497	aislinge
-aislingeach	aislingeach		2499	aislingthech
+aislingeach_nm	aislingeach	fir	2499	aislingthech
 aisréad_nm	aisréad	fir	20589	esríat
 aiste_nf	aiste	bain	2516	aiste
 aisteach_a	aisteach	aid	2517	aistech
@@ -451,9 +456,9 @@ aiteall_nm	aiteall	fir	20645	2 etal
 aiteann_nm	aiteann	fir	2832	aittenn
 aiteannach_nf	aiteannach	bain	2838	aittnech
 aiteas_nm	aiteas	fir	2833	aittes
-áith	áith		2604	áithe
 áith_a	áith	aid	2546	1 áith
 áith_nf	áith	bain	2547	2 áith
+áithe_nf	áithe	bain	2604	áithe
 aitheach_nm	aitheach	fir	2605	1 aithech
 aitheanta_a	aitheanta	aid	2623	1 aithenta
 aitheantas_nm	aitheantas	fir	2625	aithentas
@@ -473,18 +478,18 @@ aithneach_a	aithneach	aid	2756	aithnech
 aithnid_nf	aithnid	bain	2763	3 aithnid
 aithreachas_nm	aithreachas	fir	2771	aithrechus
 aithrí_nf	aithrí	bain	2782	aithrige
-aithríoch	aithríoch		2769	aithrech
 aithríoch_a	aithríoch	aid	2769	aithrech
 aithríoch_a	aithríoch	aid	2784	aithrigech
 aithríoch_nm	aithríoch	fir	2784	aithrigech
 aithris_nf	aithris	bain	2789	aithris
 aithris_v	aithris	br	2792	aithrisid
-aithriseach	aithriseach		2790	aithrisech
+aithriseach_nm	aithriseach	fir	2790	aithrisech
 aithriúil_a	aithriúil	aid	2776	aithremail
 áitigh_v	áitigh	br	2835	áittigid
 aitim_v	aitim	br	583	ad-teich
 áititheoir_nm	áititheoir	fir	2836	áittigtheóir
-áitreabhach	áitreabhach		2846	aittrebthach
+áitreabhach_a	áitreabhach	aid	2846	aittrebthach
+áitreabhach_nm	áitreabhach	fir	2846	aittrebthach
 áitrigh_v	áitrigh	br	589	ad-treba
 áitritheoir_nm	áitritheoir	fir	2849	áittreóir
 áitriú_nm	áitriú	fir	2843	aittrebad
@@ -509,7 +514,8 @@ allta_a	allta	aid	2985	allta
 alltacht_nf	alltacht	bain	2986	alltacht
 alltar_nm	alltar	fir	2990	alltar
 alltarach_a	alltarach	aid	2991	alltarach
-allúrach	allúrach		2976	allmarach
+allúrach_a	allúrach	aid	2976	allmarach
+allúrach_nm	allúrach	fir	2976	allmarach
 Almáinis_nf	Almáinis	bain	2998	Almainech
 almóinn_nf	almóinn	bain	3001	almont
 almóir_nm	almóir	fir	21280	falmóir
@@ -533,7 +539,7 @@ altranas_nm	altranas	fir	3042	altrannas
 altú_nm	altú	fir	4944	attlugud
 am_nm	am	fir	3157	1 amm
 ama_nm	ama	fir	3159	amma
-amach	amach		27644	immach, ammach
+amach_adv	amach	db	27644	immach, ammach
 amadán_nm	amadán	fir	3172	ammatán
 amadánta_a	amadánta	aid	3173	ammatánach
 amadánta_a	amadánta	aid	3175	ammatánta
@@ -550,9 +556,10 @@ amas_nm	amas	fir	3180	ammus
 ambasadóir_nm	ambasadóir	fir	3097	ambasadóir
 amh_a	amh	aid	33824	om
 ámh_adv	ámh	db	3048	1 ám
-amhail	amhail		3057	amail, amal
-amháin	amháin		3061	amáin
-amháin	amháin		32963	nammá
+amhail_conj	amhail	cón	3057	amail, amal
+amhail_prep	amhail	rf	3057	amail, amal
+amháin_a	amháin	aid	3061	amáin
+amháin_adv	amháin	db	32963	nammá
 amhainse_nf	amhainse	bain	3062	amainse
 amhainseach_a	amhainseach	aid	3063	amainsech
 amhantar_nm	amhantar	fir	3078	amantúr, amantur
@@ -565,14 +572,16 @@ amhastrach_nf	amhastrach	bain	3095	amastrach
 amhchaoin_a	amhchaoin	aid	3113	amchaín
 amhlabhra_nf	amhlabhra	bain	3141	amlabra
 amhlabhrach_a	amhlabhrach	aid	3140	amlabar
-amhlaidh	amhlaidh		3138	1 amla
-amhlaidh	amhlaidh		3145	1 amlaid
-amhlaidh	amhlaidh		36150	1 samlaid
+amhlaidh_adv	amhlaidh	db	3138	1 amla
+amhlaidh_adv	amhlaidh	db	3145	1 amlaid
+amhlaidh_adv	amhlaidh	db	36150	1 samlaid
 amhlán_nm	amhlán	fir	3148	amlán
 amhluath_a	amhluath	aid	3155	amlúath
 amhnas_a	amhnas	aid	3185	amnas
-amhra	amhra		290	adamrae
-amhra	amhra		3201	amrae
+amhra_a	amhra	aid	290	adamrae
+amhra_a	amhra	aid	3201	amrae
+amhra_nm	amhra	fir	290	adamrae
+amhra_nm	amhra	fir	3201	amrae
 amhrán_nm	amhrán	fir	3203	amrán
 amhránach_a	amhránach	aid	3204	amránach
 amhras_nm	amhras	fir	3067	am(a)ires
@@ -583,9 +592,10 @@ amhulchach_a	amhulchach	aid	3232	amul(ch)ach
 ampaill_nf	ampaill	bain	3191	ampaill
 amparán_nm	amparán	fir	3193	? amparrán
 ampla_nm	ampla	fir	3192	ampall, ampla
-amú	amú		31228	madae
-amuigh	amuigh		27661	1 immaig
-amuigh	amuigh		3161	ammaig
+amú_a	amú	aid	31228	madae
+amú_adv	amú	db	31228	madae
+amuigh_adv	amuigh	db	27661	1 immaig
+amuigh_adv	amuigh	db	3161	ammaig
 an_art	an	alt	28194	1 in
 an_interr	an	ceist	28195	2 in
 an-1_pref	an-	rm	3240	an-
@@ -594,7 +604,8 @@ ana_nf	ana	bain	3265	anad
 ana_nm	ana	fir	3271	anae
 anabaí_a	anabaí	aid	3312	anaipche
 anabaí_a	anabaí	aid	3356	anapaig
-anacair	anacair		3788	anshocair
+anacair_a	anacair	aid	3788	anshocair
+anacair_nf	anacair	bain	3788	anshocair
 anacair_nf	anacair	bain	3262	2 anacra
 anacair_nf	anacair	bain	3789	anshocracht
 anacal_nm	anacal	fir	3264	anacul
@@ -608,10 +619,11 @@ anaireach_a	anaireach	aid	3320	anairech
 anairt_nf	anairt	bain	3370	1 anart
 anaiteas_nm	anaiteas	fir	3334	anaittes
 anaithne_nf	anaithne	bain	3329	2 anaithne
-anaithnid	anaithnid		3331	anaithnid, anaichnid
+anaithnid_a	anaithnid	aid	3331	anaithnid, anaichnid
+anaithnid_nf	anaithnid	bain	3331	anaithnid, anaichnid
 analach_nf	analach	bain	3336	analach, analag
 análach_a	análach	aid	3337	análach
-anall	anall		3340	anall
+anall_adv	anall	db	3340	anall
 anallód_adv	anallód	db	3340	anall
 anam_nm	anam	fir	1402	ainim(m)
 anamchairdeas_nm	anamchairdeas	fir	3682	anmchairdes
@@ -655,7 +667,7 @@ andóchasach_a	andóchasach	aid	3506	andóchasach
 andóigh_nf	andóigh	bain	3479	andáig
 andord_nm	andord	fir	3514	andord
 anduine_nm	anduine	fir	3527	anduine
-aneas	aneas		3491	andess
+aneas_adv	aneas	db	3491	andess
 anfa_nm	anfa	fir	3608	anfud
 anfach_a	anfach	aid	3545	1 anfadach
 anfháilte_nf	anfháilte	bain	3548	anfáilte
@@ -673,8 +685,8 @@ angar_nm	angar	fir	3130	amgaire
 angar_nm	angar	fir	3132	amgar
 angarach_a	angarach	aid	3133	amgarach
 anglais_nf	anglais	bain	20092	englas, anglas
-aniar	aniar		3645	aníar
-aníos	aníos		3656	anís
+aniar_adv	aniar	db	3645	aníar
+aníos_adv	aníos	db	3656	anís
 anlann_nm	anlann	fir	3718	annland
 anlathach_a	anlathach	aid	3565	anfhlaithech
 anlathas_nm	anlathas	fir	3566	anflaithius
@@ -683,7 +695,7 @@ anlucht_nm	anlucht	fir	3663	anlucht
 anmhacnas_nm	anmhacnas	fir	3667	anmacnas
 anmhór_a	anmhór	aid	3690	anmor
 anmhórán_nm	anmhórán	fir	3691	anmórán
-ann	ann		26891	i
+ann_pronm	ann		26891	i
 annáil_nf	annáil	bain	3705	anná(i)l
 annáil_v	annáil	br	3709	annálaid
 annála_npl	annála	iol	3707	annálach
@@ -692,13 +704,13 @@ annamhacht_nf	annamhacht	bain	3706	annaime
 annamhacht_nf	annamhacht	bain	3720	annmacht
 annóid_nf	annóid	bain	3510	1 andóit
 anó_nm	anó	fir	3790	anshód
-anocht	anocht		28835	innocht
-anocht	anocht		33221	1 nocht
-anoir	anoir		3314	2 anair
-anóirthear	anóirthear		2432	airther
-anois	anois		28510	indossa
+anocht_adv	anocht	db	28835	innocht
+anocht_adv	anocht	db	33221	1 nocht
+anoir_adv	anoir	db	3314	2 anair
+anóirthear_s	anóirthear	af	2432	airther
+anois_adv	anois	db	28510	indossa
 anóiteach_a	anóiteach	aid	3791	anshódach
-anonn	anonn		28836	innonn
+anonn_adv	anonn	db	28836	innonn
 anord_nm	anord	fir	3747	anord
 anordúil_a	anordúil	aid	3751	anordamail
 ánradh_nm	ánradh	fir	3757	ánrad
@@ -714,11 +726,12 @@ anscuithe_a	anscuithe	aid	3782	anscuichthe
 ansmacht_nm	ansmacht	fir	3786	ansmacht
 antlás_nm	antlás	fir	3809	antlás
 antoil_nf	antoil	bain	3812	antoil
-antoisceach	antoisceach		3814	antoiscthech
+antoisceach_a	antoisceach	aid	3814	antoiscthech
 antrasc_nm	antrasc	fir	3817	antrax
 antráth_nm	antráth	fir	3815	antráth
 antráthach_a	antráthach	aid	3816	antráthach
-antrom	antrom		3818	antrom
+antrom_a	antrom	aid	3818	antrom
+antrom_nm	antrom	fir	3818	antrom
 antuisceanach_a	antuisceanach	aid	3826	antuicsech
 antuiscint_nf	antuiscint	bain	3825	antuicse
 anuabhar_nm	anuabhar	fir	3827	anúabar
@@ -727,13 +740,14 @@ anuaill_nf	anuaill	bain	3830	anúaill
 anuair_nf	anuair	bain	3832	? anúair
 anuaisle_nf	anuaisle	bain	3834	anúaisle
 anuallach_a	anuallach	aid	3836	anúallach
-anuas	anuas		3838	anúas
-anuasal	anuasal		3839	anúasal
+anuas_adv	anuas	db	3838	anúas
+anuasal_a	anuasal	aid	3839	anúasal
+anuasal_nm	anuasal	fir	3839	anúasal
 anuasana_adv	anuasana	db	3841	anúasana
 anullamh_a	anullamh	aid	3842	anullam
 anumhal_a	anumhal	aid	3844	anumal
 anumhlaíocht_nf	anumhlaíocht	bain	3847	anumlacht
-anuraidh	anuraidh		43229	ur(a)id
+anuraidh_s	anuraidh	af	43229	ur(a)id
 anurraim_nf	anurraim	bain	3852	anurraim
 aodh_nf	aodh	bain	613	áed
 aoi_s	aoi	af	716	3 aí
@@ -755,7 +769,7 @@ aol_nm	aol	fir	618	1 áel
 aoladh_nm	aoladh	fir	621	áelad
 aolta_a	aolta	aid	625	áelta
 mar aon	mar aon		27763	immaróen
-aon	aon		33512	óen
+aon_a	aon	aid	33512	óen
 aonach_nm	aonach	fir	33513	1 oenach
 aonán_nm	aonán	fir	33520	óenán
 aonar_nm	aonar	fir	33521	oenar
@@ -763,8 +777,8 @@ aonarán_nm	aonarán	fir	33522	oenarán
 aonaránach_a	aonaránach	aid	33523	*oenaránach
 aonaránacht_nf	aonaránacht	bain	33524	*oenaránacht
 aonraic_a	aonraic	aid	33536	? oenrac
-aonta	aonta		33528	oenda
-aonta	aonta		33548	oentu
+aonta_a	aonta	aid	33528	oenda
+aonta_nm	aonta	fir	33548	oentu
 aontachas_nm	aontachas	fir	33538	oentachas
 aontacht_nf	aontacht	bain	33529	oendacht
 aontaigh_v	aontaigh	br	33544	oentaigid
@@ -772,12 +786,12 @@ aontaitheach_a	aontaitheach	aid	33529	oendacht
 aontaitheach_a	aontaitheach	aid	33537	oentach
 aontaitheach_a	aontaitheach	aid	33543	oentaigech
 aontumha_nf	aontumha	bain	33547	2 oentama
-aonú	aonú		33533	oenmad
+aonú_ord	aonú	ord	33533	oenmad
 aor_v	aor	br	632	aer
 aor_v	aor	br	639	áeraid
 aorachas_nm	aorachas	fir	636	áerachas
 aos_nm	aos	fir	645	2 áes
-aosach	aosach		647	áesach
+aosach_a	aosach	aid	647	áesach
 aosaigh_v	aosaigh	br	648	áesaid
 aosta_a	aosta	aid	655	áesmar
 aosta_a	aosta	aid	656	áesta
@@ -805,7 +819,7 @@ ar_prep	ar	rf	3903	2 ar
 ára_nf	ára	bain	4349	áru
 ara1_nm	ara^1	fir	3915	3 ara
 ara2_nm	ara^2	fir	3914	2 ara
-Arabach	Arabach		3920	Arabdae
+Arabach_a	Arabach	aid	3920	Arabdae
 árach1_nm	árach^1	fir	3927	2 árach
 árach2_nm	árach^2	fir	3926	1 árach
 áradh_nm	áradh	fir	3934	árad
@@ -818,7 +832,7 @@ araíonacht_nf	araíonacht	bain	3940	aradnacht
 arán_nm	arán	fir	3961	arán
 araoid_nf	araoid	bain	3956	araít
 araoid_nf	araoid	bain	4257	? arraid
-araon	araon		33512	óen
+araon_adv	araon	db	33512	óen
 áras_nm	áras	fir	4355	árus
 arathar_nm	arathar	fir	3967	arathar
 arbhar_nm	arbhar	fir	3972	1 arbar
@@ -835,7 +849,7 @@ ardaingeal_nm	ardaingeal	fir	4000	arc(h)aingel
 ardaitheoir_nm	ardaitheoir	fir	4050	ardaigtheóir
 ardcheann_nm	ardcheann	fir	1702	airchenn
 ard-diúc_nm	ard-diúc	fir	4286	arsadiuc
-aréir	aréir		29082	irráir
+aréir_s	aréir	af	29082	irráir
 arg_v	arg	br	33726	oirgid
 argain_nf	argain	bain	34005	orgun, (orcun)
 argóint_nf	argóint	bain	4135	argam(a)int
@@ -854,7 +868,8 @@ arrachtach_a	arrachtach	aid	2365	airrechtach
 arrachtach_a	arrachtach	aid	4249	arrachtach
 arrachtas_nm	arrachtas	fir	4253	arrachtas
 arraing_nf	arraing	bain	4264	arrann
-ársa	ársa		4287	arsaid
+ársa_a	ársa	aid	4287	arsaid
+ársa_nm	ársa	fir	4287	arsaid
 ársaigh2_v	ársaigh^2	br	4285	arsadaigidir
 ársaigh2_v	ársaigh^2	br	4290	arsaidid
 ársaíocht_nf	ársaíocht	bain	4289	arsaidecht
@@ -863,7 +878,7 @@ art_nm	art	fir	4322	2 art
 artaire_nm	artaire	fir	2456	airtire
 artaireach_a	artaireach	aid	2421	airteirech
 árthach_nm	árthach	fir	4332	1 arthrach
-arú	arú		3984	arbu
+arú_adv	arú	db	3984	arbu
 as_prep	as	rf	4362	5 as
 as1_nm	as^1	fir	4359	2 as
 as2_nm	as^2	fir	4358	1 as
@@ -901,7 +916,8 @@ atha_nf	atha	bain	4619	athaig, athach, athad
 athadh_nm	athadh	fir	2614	1 aithed
 athaimsigh_v	athaimsigh	br	4622	athaimsid
 athair_nm	athair	fir	4625	1 athair
-athartha	athartha		4648	atharda
+athartha_a	athartha	aid	4648	atharda
+athartha_nf	athartha	bain	4648	atharda
 atharthacht_nf	atharthacht	bain	4649	athardacht
 áthas_nm	áthas	fir	2635	áithes
 áthasach_a	áthasach	aid	2636	áithesach
@@ -990,7 +1006,7 @@ athscríobh_nm	athscríobh	fir	4866	athscríbad
 athshagart_nm	athshagart	fir	4864	athshacart
 athshnaidhm_v	athshnaidhm	br	4872	athshnaidmid
 athsmaoinigh_v	athsmaoinigh	br	4869	athsmúainid
-athuair	athuair		4878	athúair
+athuair_adv	athuair	adv	4878	athúair
 ationóil_v	ationóil	br	2806	aithtinólaid
 atit_v	atit	br	4966	attuitid
 atógáil_nf	atógáil	bain	4847	athócbáil
