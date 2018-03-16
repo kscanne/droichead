@@ -1023,7 +1023,8 @@ bábhún_nm	bábhún	fir	5123	badún
 bac_v	bac	br	5078	baccaid
 bac_v	bac	br	5081	baccaigid
 bac_nm	bac	fir	5073	1 bacc
-bacach	bacach		5075	baccach
+bacach_a	bacach	aid	5075	baccach
+bacach_nm	bacach	fir	5075	baccach
 bacadh_nm	bacadh	fir	5082	baccáil
 bacaí_nf	bacaí	bain	5079	baccaige
 bacán_nm	bacán	fir	5083	baccán
@@ -1161,7 +1162,8 @@ bara_nm	bara	fir	5376	1 bara
 baránta_nm	baránta	fir	5388	baránta
 barántas_nm	barántas	fir	5391	barántas
 barántúil_a	barántúil	aid	5390	barántamail
-barbarach	barbarach		5395	barbarach
+barbarach_a	barbarach	aid	5395	barbarach
+barbarach_nm	barbarach	fir	5395	barbarach
 barbartha_a	barbartha	aid	5396	barbarda
 barbarthacht_nf	barbarthacht	bain	5397	barbardacht
 barbróg_nf	barbróg	bain	5398	barbrúch, barbróg
@@ -1175,8 +1177,8 @@ barr_nm	barr	fir	5416	1 barr
 barr2_v	barr^3	br	5425	1 barraid, bairrid
 barr3_v	barr^4	br	5426	2 barraid
 barra_nm	barra	fir	5418	barra
-barrach	barrach		5420	2 barrach
-barrach	barrach		7467	bunuch
+barrach_nm	barrach	fir	5420	2 barrach
+barrach_nm	barrach	fir	7467	bunuch
 barrachas_nm	barrachas	fir	5421	barrachas
 barraí_nm	barraí	fir	5427	barraide
 barraíl_nf	barraíl	bain	5435	barrgal
@@ -1196,7 +1198,6 @@ barúil_v	barúil	br	5384	baramlaid
 barúlach_a	barúlach	aid	5383	baramlach
 barún_nm	barún	fir	5440	barún
 barúntacht_nf	barúntacht	bain	5441	barúntacht
-bas	bas		5442	1 bas
 bás_nm	bás	fir	5444	1 bás
 básadóir_nm	básadóir	fir	5453	básaire
 básaigh_v	básaigh	br	5448	básaid
@@ -1216,21 +1217,22 @@ béabhar_nm	béabhar	fir	5509	bébar, béver
 beacán_nm	beacán	fir	6233	2 bocán
 beach_nf	beach	bain	5523	bech
 beachaire_nm	beachaire	fir	5527	bechatoir
-beacht	beacht		5529	becht
-beacht	beacht		5532	2 bechta
+beacht_a	beacht	aid	5529	becht
+beacht_a	beacht	aid	5532	2 bechta
 beachtaí_nm	beachtaí	fir	5536	bechtaide
 beachtaigh_v	beachtaigh	br	5537	bechtaigid
 béad_nm	béad	fir	5770	bét
-beadaí	beadaí		5772	betaide
+beadaí_a	beadaí	aid	5772	betaide
 beadaíocht_nf	beadaíocht	bain	5773	betaidecht
 béadán_nm	béadán	fir	5821	biaideán
 béadánach_a	béadánach	aid	5822	biaideánach
 béadánach_a	béadánach	aid	5931	bíodánach
-beag	beag		5512	bec
+beag_a	beag	aid	5512	bec
+beag_nm	beag	fir	5512	bec
 beagadán_nm	beagadán	fir	5994	biucatán
 beagaigh_v	beagaigh	br	5513	becaid
 beagaigh_v	beagaigh	br	5514	becaigid
-beagán	beagán		5517	becán
+beagán_nm	beagán	fir	5517	becán
 beagchéillí_a	beagchéillí	aid	5512	bec
 beagchroíoch_a	beagchroíoch	aid	5512	bec
 beageaglach_a	beageaglach	aid	5512	bec
@@ -1260,14 +1262,13 @@ beangán_nm	beangán	fir	5651	bengán
 beangánach_a	beangánach	aid	5652	bengánach
 beannach_a	beannach	aid	5657	2 bennach
 beannacht_nf	beannacht	bain	5661	bennacht
-beannachtach	beannachtach		5662	bennachtach
+beannachtach_a	beannachtach	aid	5662	bennachtach
 beannad_nm	beannad	fir	31966	mennat
 beannaigh_v	beannaigh	br	5659	bennachaid
 beannaitheacht_nf	beannaitheacht	bain	5666	bennaigthecht
 beannán_nm	beannán	fir	5667	bennán
 beannchabar_nm	beannchabar	fir	5654	benn
 beannú_nm	beannú	fir	5658	bennachad
-bearach	bearach		5693	berach
 bearbóir_nm	bearbóir	fir	5727	berrbóir
 béarla_nm	béarla	fir	5638	bélrae
 béarlagair_nm	béarlagair	fir	5710	bérlacair
@@ -1287,7 +1288,7 @@ beartaigh_v	beartaigh	br	5739	2 bertaid
 beartaigh_v	beartaigh	br	5740	bertaigid(ir)
 beartán_nm	beartán	fir	5745	bertín
 béas1_nm	béas^1	fir	5755	1 bés
-béasach	béasach		5757	bésach
+béasach_a	béasach	aid	5757	bésach
 béascna_nf	béascna	bain	5762	bésgnae
 béasmhúineadh_nm	béasmhúineadh	fir	5764	bésmúnad
 beatha_nf	beatha	bain	5779	betha
@@ -1325,7 +1326,8 @@ beith2_nf	beith^2	bain	5597	beithe
 beitheach_a	beitheach	aid	5600	1 beithech
 beithíoch_nm	beithíoch	fir	5782	bethadach
 beithir_nf	beithir	bain	5603	beithir
-beo	beo		5671	béo
+beo_a	beo	aid	5671	béo
+beo_nm	beo	fir	5671	béo
 beocht_nf	beocht	bain	5679	béodacht
 beocht_nf	beocht	bain	5683	béodas
 beoga_a	beoga	aid	5680	béodae
@@ -1361,7 +1363,7 @@ billéad_nm	billéad	fir	5899	billéd
 bindealán_nm	bindealán	fir	5574	beinndil
 bine_nm	bine	fir	5914	bine
 binid_nf	binid	bain	5918	binit
-binn	binn		5921	binn
+binn_a	binn	aid	5921	binn
 binn_nf	binn	bain	5654	benn
 binneas_nm	binneas	fir	5924	binne
 binneas_nm	binneas	fir	5928	binnius
@@ -1383,7 +1385,7 @@ biolar_nm	biolar	fir	5941	birar
 bior1_nm	bior^1	fir	5933	1 bir
 bior2_nm	bior^2	fir	5934	2 bir
 bioracán_nm	bioracán	fir	5944	bircán
-biorach	biorach		5693	berach
+biorach_a	biorach	aid	5693	berach
 bioraithe_a	bioraithe	aid	5938	biraigthe
 biorán_nm	biorán	fir	5694	berán
 biosóir_s	biosóir	af	5960	bis
@@ -1441,11 +1443,12 @@ bláthach_nf	bláthach	bain	6088	bláthach
 bláthaigh_v	bláthaigh	br	6060	bláithigid
 bláthbhuí_a	bláthbhuí	aid	6000	2 blá
 bláthnaid_nf	bláthnaid	bain	6093	1 bláthnait
-bleacht	bleacht		32397	mlicht
-bleacht	bleacht		6139	1 blicht
-bleacht	bleacht		6140	2 blicht
-bleachtach	bleachtach		6097	1 blechtach
-bleachtach	bleachtach		6141	blichtach
+bleacht_a	bleacht	aid	32397	mlicht
+bleacht_a	bleacht	aid	6140	2 blicht
+bleacht_nm	bleacht	fir	32397	mlicht
+bleacht_nm	bleacht	fir	6139	1 blicht
+bleachtach_a	bleachtach	aid	6097	1 blechtach
+bleachtach_nf	bleachtach	bain	6141	blichtach
 bleachtán_nm	bleachtán	fir	6099	blechtán
 bleachtanas_nm	bleachtanas	fir	6100	blechtas
 bleachtmhar_a	bleachtmhar	aid	6101	blechtmar
@@ -1483,7 +1486,8 @@ bó-aire_nm	bó-aire	fir	6204	bóaire
 boc_nm	boc	fir	6218	2 boc
 bocánach_nm	bocánach	fir	6234	bocánach
 bóchna_nf	bóchna	bain	6247	bóchna
-bocht	bocht		6248	1 bocht
+bocht_a	bocht	aid	6248	1 bocht
+bocht_nm	bocht	fir	6248	1 bocht
 bochtaigh_v	bochtaigh	br	6254	bochtaigid
 bochtaineacht_nf	bochtaineacht	bain	6250	bochta
 bochtaineacht_nf	bochtaineacht	bain	6251	bochtacht
@@ -1496,7 +1500,8 @@ bod_nm	bod	fir	6429	1 bot
 bodach_nm	bodach	fir	6431	botach
 bodachán_nm	bodachán	fir	6433	botachán
 bodhaire_nf	bodhaire	bain	7378	buidre
-bodhar	bodhar		6275	bodar
+bodhar_a	bodhar	aid	6275	bodar
+bodhar_nm	bodhar	fir	6275	bodar
 bodhraigh_v	bodhraigh	br	6282	bodraid
 bodhrán_nm	bodhrán	fir	6276	bodarán
 bodhrán_nm	bodhrán	fir	6283	bodrán
@@ -1644,7 +1649,7 @@ bráthair_nm	bráthair	fir	6585	bráthair
 bráthairse_nf	bráthairse	bain	6593	bráthirse
 brathbhéim	brathbhéim		6579	bráth
 brathlang_nf	brathlang	bain	6594	brathlang
-breá	breá		6670	1 bregda
+breá_a	breá	aid	6670	1 bregda
 breab_nf	breab	bain	6608	breb
 breab_nf	breab	bain	6802	bríb
 breabóideach_a	breabóideach	aid	6610	brebóitech
@@ -1664,7 +1669,7 @@ breacra_nm	breacra	fir	6631	breccrad
 breacsholas_nm	breacsholas	fir	6620	1 brecc
 bréag_nf	bréag	bain	6611	bréc
 bréag_v	bréag	br	6614	brécaid
-bréagach	bréagach		6612	brécach
+bréagach_a	bréagach	aid	6612	brécach
 bréagadóir_nm	bréagadóir	fir	6616	brécaire
 bréagadóireacht_nf	bréagadóireacht	bain	6617	brécairecht
 bréagán_nm	bréagán	fir	6618	brécán
@@ -1672,7 +1677,7 @@ bréagchrábhadh_nm	bréagchrábhadh	fir	6611	bréc
 bréagnaigh_v	bréagnaigh	br	6657	brécnaigid
 breall_nf	breall	bain	38692	spreill
 breall_nf	breall	bain	6713	brell
-breallach	breallach		6714	brellach
+breallach_a	breallach	aid	6714	brellach
 breallán_nm	breallán	fir	6716	brellán
 bréan_a	bréan	aid	6717	brén
 bréan_v	bréan	br	6720	brénaid
@@ -1684,7 +1689,8 @@ breasnaí_a	breasnaí	aid	6747	brestaide
 breasnaíocht_nf	breasnaíocht	bain	6744	bresnaigecht
 breáthacht_nf	breáthacht	bain	6672	bregdacht
 breathnaigh_v	breathnaigh	br	6765	brethnaigid
-Breatnach	Breatnach		6770	Bretnach
+Breatnach_a	Breatnach	aid	6770	Bretnach
+Breatnach_nm	Breatnach	fir	6770	Bretnach
 Breatnais_nf	Breatnais	bain	6772	Bretnas
 bréid_nm	bréid	fir	6695	bréit
 bréidín_nm	bréidín	fir	6711	bréitín
@@ -1807,7 +1813,7 @@ bruar_nm	bruar	fir	7054	bruar
 bruasach_a	bruasach	aid	7056	bruasach
 brúcht_v	brúcht	br	7066	brúchtaid
 brúcht_nm	brúcht	fir	7063	brúcht
-brúchtach	brúchtach		7064	brúchtach
+brúchtach_nf	brúchtach	bain	7064	brúchtach
 brufar_a	brufar	aid	7174	bruthmar
 brugh_nm	brugh	fir	7102	bruig
 brughaidh_nm	brughaidh	fir	6874	briugu
@@ -1823,7 +1829,7 @@ bruíonach_a	bruíonach	aid	7100	2 bruidnech
 bruíonachas_nm	bruíonachas	fir	7101	bruidnechas
 brúireach_nm	brúireach	fir	7129	brúirech
 bruis_nf	bruis	bain	7130	bruis
-bruite	bruite		7139	bruithe
+bruite_a	bruite	aid	7139	bruithe
 bruith_nf	bruith	bain	7138	bruith
 bruith_v	bruith	br	7143	bruithid
 bruithean_nf	bruithean	bain	7141	bruithen
@@ -1903,7 +1909,7 @@ builleach_a	builleach	aid	7389	buillech
 buime_nf	buime	bain	32709	muim(m)e
 buime_nf	buime	bain	7393	buime
 buinne_nm	buinne	fir	7399	buinne
-buinneach	buinneach		7401	2 buinnech
+buinneach_nf	buinneach	bain	7401	2 buinnech
 buinneán_nm	buinneán	fir	7402	buinnén
 buinniú_nm	buinniú	fir	7404	buinniugad
 buíocán_nm	buíocán	fir	7351	buidecán
@@ -1923,7 +1929,7 @@ búireach_nf	búireach	bain	7419	2 búir(f)edach
 búireach_nf	búireach	bain	7420	búirfid
 buirg_nf	buirg	bain	6409	borg
 buirg_nf	buirg	bain	7423	buirgés
-buirgéiseach	buirgéiseach		7421	buirgéisech
+buirgéiseach_nm	buirgéiseach	fir	7421	buirgéisech
 buiséal_nm	buiséal	fir	7431	buisél
 buitléir_nm	buitléir	fir	7439	buitilér
 bulla2_nm	bulla^2	fir	7443	1 bulla
@@ -1939,7 +1945,7 @@ bunús_nm	bunús	fir	7452	bunadas
 bunúsach_a	bunúsach	aid	7453	bunadasach
 burdún_nm	burdún	fir	7475	búrdún
 burdúnach_a	burdúnach	aid	7476	búrdúnach
-cá	cá		8965	1 cía
+cá_interr	cá	ceist	8965	1 cía
 cab_nm	cab	fir	7494	cab
 cába_nm	cába	fir	7495	cába
 cabáiste_nm	cabáiste	fir	7501	cabáiste
