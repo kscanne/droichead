@@ -3970,7 +3970,8 @@ dabhchach_a	dabhchach	aid	14089	dabchach
 dachtalach_a	dachtalach	aid	14108	dachtalacdae
 dada_nm	dada	fir	14122	dadom
 dada_nm	dada	fir	4563	atam
-daibhir	daibhir		14165	daidbir
+daibhir_a	daibhir	aid	14165	daidbir
+daibhir_nm	daibhir	fir	14165	daidbir
 daibhreas_nm	daibhreas	fir	14167	daidbres
 daid_nm	daid	fir	14317	1 dait
 daigéar_nm	daigéar	fir	14180	2 daiger
@@ -3988,7 +3989,8 @@ dáileamh_nm	dáileamh	fir	14198	dáilem
 daille_nf	daille	bain	14205	daille
 dáimh_nf	dáimh	bain	14472	dám
 dáimhiúil_a	dáimhiúil	aid	14473	dámach
-daingean	daingean		14232	daingen
+daingean_a	daingean	aid	14232	daingen
+daingean_nm	daingean	fir	14232	daingen
 daingne_nf	daingne	bain	14234	daingne
 daingne_nf	daingne	bain	14236	daingnecht
 daingnigh_v	daingnigh	br	14237	daingnid
@@ -3998,8 +4000,8 @@ dáir_nf	dáir	bain	14254	dáir
 dairbhre_nf	dairbhre	bain	14260	dairbre
 daireach_a	daireach	aid	14273	dairech
 daireach_a	daireach	aid	14284	dairgech
-dáiríre	dáiríre		14293	dáirírib
-dáiríre	dáiríre		35349	rír
+dáiríre_a	dáiríre	aid	14293	dáirírib
+dáiríre_adv	dáiríre	db	35349	rír
 dairmheas_nm	dairmheas	fir	14250	dair
 dúirse dáirse	dúirse dáirse		19018	1 dúbart, díuba(i)rt
 dairt2_nf	dairt^1	bain	14305	1 dairt
@@ -4010,13 +4012,15 @@ dais2_nf	dais^2	bain	14315	daiss
 daith_a	daith	aid	14319	1 daith
 daithe_nf	daithe	bain	14325	Daithe
 dál_nm	dál	fir	14344	1 dál
-dálach	dálach		14352	dálach
+dálach_a	dálach	aid	14352	dálach
+dálach_nm	dálach	fir	14352	dálach
 dalba_a	dalba	aid	14373	dalbba, dolbba
 dalbhadh_nm	dalbhadh	fir	14369	1 dalb
 dalbhadh_nm	dalbhadh	fir	14370	2 dalb
 dalbhadh_nm	dalbhadh	fir	14375	dalbad
 dalcán_nm	dalcán	fir	14382	dalcán
-dall	dall		14393	dall
+dall_a	dall	aid	14393	dall
+dall_nm	dall	fir	14393	dall
 dall_v	dall	br	14400	dallaid
 dallacán_nm	dallacán	fir	14393	dall
 dallacán_nm	dallacán	fir	14403	1 dallán
@@ -4072,7 +4076,7 @@ dánaigh_v	dánaigh	br	14579	dánaid
 dánaigh_v	dánaigh	br	14583	1 dánaigidir
 danar_nm	danar	fir	14595	danar
 danartha_a	danartha	aid	14597	danardae
-Danmhargach	Danmhargach		14613	Danmargach
+Danmhargach_nm	Danmhargach	fir	14613	Danmargach
 daoi_nm	daoi	fir	19063	1 duí
 daoineach_a	daoineach	aid	17894	doínech
 daoire_nf	daoire	bain	17939	doíre
@@ -4094,7 +4098,8 @@ daonnacht_nf	daonnacht	bain	17562	doéndacht
 daonnacht_nf	daonnacht	bain	17565	doéndaidecht
 daonnachtúil_a	daonnachtúil	aid	17563	doéndachtach
 daonnaigh_v	daonnaigh	br	17566	doéndaigid
-daor	daor		17924	doír
+daor_a	daor	aid	17924	doír
+daor_nm	daor	fir	17924	doír
 daor_v	daor	br	17927	doíraid
 daoraicme_nf	daoraicme	bain	17924	doír
 daorán_nm	daorán	fir	17928	doírán
@@ -4157,7 +4162,8 @@ dea-bhlasta_a	dea-bhlasta	aid	14139	1 dag
 deabhóid_nf	deabhóid	bain	15837	deuósión, deuótión
 dea-bholadh_nm	dea-bholadh	fir	14139	1 dag
 dea-bhriathrach_a	dea-bhriathrach	aid	14139	1 dag
-deacair	deacair		14860	deccair
+deacair_a	deacair	aid	14860	deccair
+deacair_nf	deacair	bain	14860	deccair
 deach_a	deach	aid	14869	dech
 deachaigh_v	deachaigh	br	15058	1 degaid
 deachair_nf	deachair	bain	14907	1 dechor
@@ -4172,7 +4178,7 @@ deachtaigh_v	deachtaigh	br	14941	dechtaigid
 deachtóir_nm	deachtóir	fir	14943	dechtaigtheóir
 deachtóir_nm	deachtóir	fir	14945	dechtóir
 deachtóireacht_nf	deachtóireacht	bain	16206	dictatóirecht
-deachú	deachú		14893	dechmad
+deachú_nf	deachú	bain	14893	dechmad
 deacrach_a	deacrach	aid	14864	deccrach
 deacracht_nf	deacracht	bain	14866	deccracht
 deacracht_nf	deacracht	bain	17292	doccracht
@@ -4185,7 +4191,7 @@ déadlacht_nf	déadlacht	bain	15824	détlacht
 déadnach_nf	déadnach	bain	15829	détnach
 deafach_a	deafach	aid	14847	debthach
 dea-fhear_nm	dea-fhear	fir	14139	1 dag
-déag	déag		15020	deec
+déag_s	déag	af	15020	deec
 deagánach_nm	deagánach	fir	14857	decánach
 deagánach_nm	deagánach	fir	16670	diocánach
 deagántacht_nf	deagántacht	bain	14858	decántacht
@@ -4196,8 +4202,6 @@ dea-labhartha_a	dea-labhartha	aid	14139	1 dag
 dealaigh_v	dealaigh	br	15195	deiligidir
 dealaitheach_a	dealaitheach	aid	15197	deiligthech
 dea-lámhach_a	dea-lámhach	aid	14139	1 dag
-dealbh	dealbh		15319	delam
-dealbh	dealbh		15326	3 delb
 dealbh_a	dealbh	aid	15319	delam
 dealbh_a	dealbh	aid	15326	3 delb
 dealbh_nf	dealbh	bain	15324	1 delb
@@ -4227,7 +4231,7 @@ dea-mhuinteartha_a	dea-mhuinteartha	aid	14139	1 dag
 déan_v	déan	br	17752	do-gní
 déan_v	déan	br	26217	gníid
 déan_nm	déan	fir	15065	degan
-déanach	déanach		15155	déidenach, dídenach
+déanach_a	déanach	aid	15155	déidenach, dídenach
 déanacht_nf	déanacht	bain	15156	déiden(a)cha(cht)
 déanaí_nf	déanaí	bain	15156	déiden(a)cha(cht)
 déanamh_nm	déanamh	fir	15474	dénum
@@ -4239,7 +4243,7 @@ deann2_nm	deann^2	fir	15466	denn
 deannach_nm	deannach	fir	15451	3 dend
 deannachtach_a	deannachtach	aid	15443	denachta
 dea-nós_nm	dea-nós	fir	14139	1 dag
-déanta	déanta		15469	dénta(e)
+déanta_a	déanta	aid	15469	dénta(e)
 déantóir_nm	déantóir	fir	15471	déntoir
 dea-obair_nf	dea-obair	bain	14139	1 dag
 dea-ordaithe_a	dea-ordaithe	aid	14139	1 dag
@@ -4267,7 +4271,8 @@ Déardaoin_nm	Déardaoin	fir	14665	dardóin
 Déardaoin_nm	Déardaoin	fir	15975	díardaín
 dearfa_a	dearfa	aid	15575	derbtha
 dearfacht_nf	dearfacht	bain	15576	derbthacht
-dearg	dearg		15626	derg
+dearg_a	dearg	aid	15626	derg
+dearg_nm	dearg	fir	15626	derg
 dearg_v	dearg	br	15630	dergaid
 dearg_v	dearg	br	15657	2 dérgud
 deargadaol_nm	deargadaol	fir	14648	darb-dóel
@@ -4278,7 +4283,7 @@ deargna_a	deargna	aid	15642	dergna
 deargna_a	deargna	aid	15644	dergnaid
 deargnamhaid_nm	deargnamhaid	fir	15626	derg
 deargór_nm	deargór	fir	15626	derg
-deargrua	deargrua		15626	derg
+deargrua_a	deargrua	aid	15626	derg
 deargruathar_nm	deargruathar	fir	15626	derg
 dearlaic_v	dearlaic	br	15667	derlaicid
 dearlaiceach_a	dearlaiceach	aid	15668	derlaicthech
@@ -4303,7 +4308,7 @@ dearscnaigh_v	dearscnaigh	br	15724	derscnaigid
 dearscnaitheach_a	dearscnaitheach	aid	15726	derscnaigthech
 deartháir_nm	deartháir	fir	15573	derbráthair
 dea-rún_nm	dea-rún	fir	14139	1 dag
-deas	deas		15783	dess
+deas_a	deas	aid	15783	dess
 deasaigh_v	deasaigh	br	15793	dessigid, dessaigid
 deasc_nf	deasc	bain	15745	desc
 deasc_v	deasc	br	15748	descaigid
@@ -4317,20 +4322,22 @@ deatach_nm	deatach	fir	15800	detach
 dea-theist_nf	dea-theist	bain	14139	1 dag
 deatúil_a	deatúil	aid	15811	detfadach, detbudach
 deatúil_a	deatúil	aid	15828	detmar
-débheathach	débheathach		14835	dé-bethu
+débheathach_a	débheathach	aid	14835	dé-bethu
+débheathach_nm	débheathach	fir	14835	dé-bethu
 débhliantúil_a	débhliantúil	aid	14840	dé-bliadnach
 décheannach_a	décheannach	aid	14881	dé-chendae
 décheannach_a	décheannach	aid	14884	dé-chennach
 déchearnach_a	déchearnach	aid	14886	dé-chernach
-déchomhlach	déchomhlach		14901	dé-chomlach
-déchosach	déchosach		14910	dé-chossach
+déchomhlach_a	déchomhlach	aid	14901	dé-chomlach
+déchosach_a	déchosach	aid	14910	dé-chossach
+déchosach_nm	déchosach	fir	14910	dé-chossach
 dédhuilleach_a	dédhuilleach	aid	15012	dé-duillech
 défhaobhrach_a	défhaobhrach	aid	15030	dé-fhaebrach
 défhoghar_nm	défhoghar	fir	15038	dé-fhogur
 deibhí_nm	deibhí	fir	15107	deibide
 deibhleán_nm	deibhleán	fir	15149	deidblén
 deibhleánach_a	deibhleánach	aid	15150	deidblénach
-deich	deich		15117	2 deich n-
+deich_card	deich	uimh	15117	2 deich n-
 deichniúr_nm	deichniúr	fir	15125	deichenbor
 déidhe_nm	déidhe	fir	15152	déide
 deifir_nf	deifir	bain	15290	2 deithbir
@@ -4341,15 +4348,15 @@ deighil_v	deighil	br	15002	dedlaigidir
 deighilt_nf	deighilt	bain	14976	dedail
 deil_nf	deil	bain	15168	2 deil
 deilbh_nf	deilbh	bain	15324	1 delb
-deilgneach	deilgneach		15361	delgach
-deilgneach	deilgneach		15370	1 delgnach
+deilgneach_a	deilgneach	aid	15361	delgach
 deilgneach_a	deilgneach	aid	15366	delgánach
 deilgneach_a	deilgneach	aid	15370	1 delgnach
 deilgneach_nf	deilgneach	bain	15189	2 deilgnech
 deilín_nm	deilín	fir	15193	deilidin
 deilm_nf	deilm	bain	15200	deilm
 deimheas_nm	deimheas	fir	15209	deimes
-deimhin	deimhin		15210	deimin
+deimhin_a	deimhin	aid	15210	deimin
+deimhin_s	deimhin	af	15210	deimin
 deimhne_nf	deimhne	bain	15213	deimne
 deimhneach_a	deimhneach	aid	15214	deimnech
 deimhneach_a	deimhneach	aid	15218	deimnigthech
@@ -4364,7 +4371,8 @@ deir_nf	deir	bain	15242	deir
 deirbhéile_nf	deirbhéile	bain	15243	deirbéile
 deirc_nf	deirc	bain	15580	1 derc
 déirc_nf	déirc	bain	15024	deercc
-déirceach	déirceach		15025	deerccach
+déirceach_a	déirceach	aid	15025	deerccach
+déirceach_nm	déirceach	fir	15025	deerccach
 deireadh_nm	deireadh	fir	15251	1 deired
 deireanach_a	deireanach	aid	15254	deirenach, deirennach
 deirfiúr_nf	deirfiúr	bain	15574	derbsiur
@@ -4373,10 +4381,11 @@ deis_nf	deis	bain	15738	des
 déis_nf	déis	bain	15265	déis
 deisceabal_nm	deisceabal	fir	15268	deiscipul
 deisceart_nm	deisceart	fir	15754	descert
-deisceartach	deisceartach		15755	descertach
+deisceartach_a	deisceartach	aid	15755	descertach
 deise_nf	deise	bain	15271	deise
 deise_nf	deise	bain	15789	desse
-deiseal	deiseal		15791	dessel
+deiseal_adv	deiseal	db	15791	dessel
+deiseal_nm	deiseal	fir	15791	dessel
 deisigh_v	deisigh	br	15793	dessigid, dessaigid
 deisiúr_nm	deisiúr	fir	15790	dessebar
 deismireacht_nf	deismireacht	bain	15770	desimrecht
@@ -4398,7 +4407,7 @@ deoladh_nm	deoladh	fir	15508	deolaid
 deolaíocht_nf	deolaíocht	bain	15511	deolaidecht
 deolchaire_nf	deolchaire	bain	15507	deoladchaire
 deolchaire_nf	deolchaire	bain	15515	deolchaire
-deonach	deonach		15516	deónach
+deonach_a	deonach	aid	15516	deónach
 deonaigh_v	deonaigh	br	15503	deóinid
 deonaigh_v	deonaigh	br	15518	deónaid
 deonaigh_v	deonaigh	br	15519	deónaigid
