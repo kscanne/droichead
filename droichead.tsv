@@ -1989,16 +1989,16 @@ caibidil_nf	caibidil	bain	7867	caiptel
 cáibleáil_nf	cáibleáil	bain	7669	cáibled
 caiblidí_nf	caiblidí	bain	8193	caplait
 caidéis_nf	caidéis	bain	7697	caidréis
-caidéiseach	caidéiseach		7698	caidréisech
+caidéiseach_a	caidéiseach	aid	7698	caidréisech
 cáidh_a	cáidh	aid	7682	1 cáid
 cáidhe_nm	cáidhe	fir	7686	1 cáide
 cáidheach_a	cáidheach	aid	7688	cáidech
 cáidheadas_nm	cáidheadas	fir	7687	2 cáide
 caidirne_nm	caidirne	fir	8018	caitirne
 caidreamh_nm	caidreamh	fir	10468	coitreb
-caidreamhach	caidreamhach		7696	caidrebach
+caidreamhach_nm	caidreamhach	fir	7696	caidrebach
 caife_nm	caife	fir	8006	caithmige
-caifeach	caifeach		8005	caithmech
+caifeach_a	caifeach	aid	8005	caithmech
 caígh_v	caígh	br	9072	ciïd
 cáil_nf	cáil	bain	7706	1 cáil
 cailc_nf	cailc	bain	7710	cailc
@@ -2133,7 +2133,8 @@ calm_nm	calm	fir	7769	cailm
 calma_a	calma	aid	8071	1 calma
 calmacht_nf	calmacht	bain	8074	calmacht
 calmaigh_v	calmaigh	br	8075	calmaigid
-cam	cam		8094	1 camm
+cam_a	cam	aid	8094	1 camm
+cam2_nm	cam	fir	8094	1 camm
 cam_v	cam	br	8098	cammaid
 camall_nm	camall	fir	8087	camall
 camán1_nm	camán^1	fir	10730	2 comann
@@ -2173,12 +2174,13 @@ cantalach_a	cantalach	aid	8158	canntlach
 cantaoir_nf	cantaoir	bain	8156	canntaír
 canúint_nf	canúint	bain	8130	canamain
 caobach_nf	caobach	bain	7640	cáepach
-caoch	caoch		7571	cáech
+caoch_a	caoch	aid	7571	cáech
+caoch_nm	caoch	fir	7571	cáech
 caoch_v	caoch	br	7573	cáechaid
 caochán_nm	caochán	fir	7574	cáechán
 caochneantóg_nf	caochneantóg	bain	7571	cáech
 caoga_nm	caoga	fir	10038	coíca
-caogadú	caogadú		10039	coícatmad
+caogadú_ord	caogadú	ord	10039	coícatmad
 caoi_nf	caoi	bain	7569	cáe
 caoiche_nf	caoiche	bain	7676	caíche
 caoifeach_nm	caoifeach	fir	7622	1 cáemthach
@@ -2200,7 +2202,8 @@ caoineadh_nm	caoineadh	fir	7826	caíned
 caoineas_nm	caoineas	fir	7828	caínes
 caointeach_a	caointeach	aid	7856	caíntech
 caoithiúil_a	caoithiúil	aid	7702	caíemail
-caol	caol		7578	cáel
+caol_a	caol	aid	7578	cáel
+caol_nm	caol	fir	7578	cáel
 caolach_nm	caolach	fir	7579	cáelach
 caolagrach_a	caolagrach	aid	7578	cáel
 caolaigh_v	caolaigh	br	7581	cáelaid
@@ -2210,7 +2213,8 @@ caolas_nm	caolas	fir	7584	cáelas
 caoldroim_nm	caoldroim	fir	7587	cáeldruimm
 caolfhód_nm	caolfhód	fir	7578	cáel
 caolrach_nm	caolrach	fir	8184	caolrach
-caomh	caomh		7590	1 cáem
+caomh_a	caomh	aid	7590	1 cáem
+caomh_nm	caomh	fir	7590	1 cáem
 caomhnach_a	caomhnach	aid	7610	cáemnach
 caomhnaigh_v	caomhnaigh	br	7614	cáemnaid
 caonach_nm	caonach	fir	7636	cáenna
@@ -2218,7 +2222,7 @@ caonach_nm	caonach	fir	7637	1 cáennach
 caor_nf	caor	bain	7644	cáer
 caora_nf	caora	bain	7645	cáera
 caoraíocht_nf	caoraíocht	bain	7646	cáeraigecht
-caordhearg	caordhearg		7644	cáer
+caordhearg_a	caordhearg	aid	7644	cáer
 caorthann_nm	caorthann	fir	7652	cáerthann
 capall_nm	capall	fir	8187	1 capall
 captaen_nm	captaen	fir	7868	caiptín
@@ -2314,23 +2318,21 @@ cathróir_nm	cathróir	fir	8382	cathraigtheóir
 cathróir_nm	cathróir	fir	8383	cathrar
 cathú_nm	cathú	fir	8384	cathugud
 cátúil_a	cátúil	aid	8394	cáttamail
-cé	cé		8449	céibe
-cé	cé		8966	2 cía
+cé_nf	cé	bain	8449	céibe
 cé_a	cé	aid	8419	1 cé
 cé_interr	cé	ceist	8965	1 cía
 cé_conj	cé	cón	25467	1 gé
 cé_conj	cé	cón	8966	2 cía
 ceachair_nf	ceachair	bain	8422	cechar
 ceachartha_a	ceachartha	aid	8423	cecharda
-ceachrach	ceachrach		8427	cechrach
+ceachrach_a	ceachrach	aid	8427	cechrach
 ceacht_nm	ceacht	fir	754	aiccecht
 ceacht_nm	ceacht	fir	8431	cecht
 céachta_nm	céachta	fir	8432	1 cécht
-ceachtar	ceachtar		8437	cechtar
+ceachtar_pron	ceachtar	fa	8437	cechtar
 ceachtartha_a	ceachtartha	aid	8438	cechtardae
 cead_nm	cead	fir	8860	1 cet
-céad	céad		8862	1 cét
-céadach	céadach		8871	1 cétach
+céad_card	céad	uimh	8862	1 cét
 céadach_a	céadach	aid	8871	1 cétach
 ceadaigh_v	ceadaigh	br	8878	cetaigid
 ceadaitheach_a	ceadaitheach	aid	8880	cetaigthech
@@ -2346,7 +2348,7 @@ céadóir_s	céadóir	af	8949	cétóir
 céadras_nm	céadras	fir	37347	sétrus
 céadras_nm	céadras	fir	8446	ced(a)ir, cedrus
 céadsearc_nf	céadsearc	bain	8866	1 cét-
-céadú	céadú		8941	cétmad
+céadú_ord	céadú	ord	8941	cétmad
 céaduair_s	céaduair	af	8949	cétóir
 ceal_nm	ceal	fir	8539	1 cel
 céalacan_nm	céalacan	fir	8937	cétlongad
@@ -2367,7 +2369,8 @@ ceangal_nm	ceangal	fir	8609	cengal
 ceangaltán_nm	ceangaltán	fir	8613	cengaltán
 ceangaltán_nm	ceangaltán	fir	8614	cenglachán
 ceann_nm	ceann	fir	8622	1 cenn
-céanna	céanna		8944	cétnae
+céanna_a	céanna	aid	8944	cétnae
+céanna_nm	céanna	fir	8944	cétnae
 ceannach_nm	ceannach	fir	8624	cennach
 ceannadhairt_nf	ceannadhairt	bain	8622	1 cenn
 ceannaghaidh_nf	ceannaghaidh	bain	8622	1 cenn
@@ -2376,11 +2379,13 @@ ceannaigh_v	ceannaigh	br	8632	cennaigid
 ceannail_nf	ceannail	bain	8597	cendail
 ceannaíocht_nf	ceannaíocht	bain	8631	cennaigecht
 ceannairc_nf	ceannairc	bain	8635	cennairc(e)
-ceannairceach	ceannairceach		8636	cennaircech
+ceannairceach_a	ceannairceach	aid	8636	cennaircech
+ceannairceach_nm	ceannairceach	fir	8636	cennaircech
 ceannaire_nm	ceannaire	fir	8637	cennaire
 ceannaitheoir_nm	ceannaitheoir	fir	8633	cennaigtheóir
-ceannann	ceannann		8588	cenann
-ceannann	ceannann		8622	1 cenn
+ceannann_a	ceannann	aid	8588	cenann
+ceannann_nf	ceannann	bain	8588	cenann
+ceannann_nf	ceannann	bain	8622	1 cenn
 ceannard_a	ceannard	aid	8622	1 cenn
 ceannas_nm	ceannas	fir	8645	1 cennas
 ceannasach_a	ceannasach	aid	8647	cennasach
@@ -2396,7 +2401,7 @@ ceannliath_a	ceannliath	aid	8622	1 cenn
 ceannlitir_nf	ceannlitir	bain	8622	1 cenn
 ceannramhar_a	ceannramhar	aid	8622	1 cenn
 ceannsmacht_nm	ceannsmacht	fir	8622	1 cenn
-ceanntrom	ceanntrom		8682	cenntromm
+ceanntrom_a	ceanntrom	aid	8682	cenntromm
 ceanrach_nf	ceanrach	bain	8667	cennrach
 ceanrachán_nm	ceanrachán	fir	8668	cennrachán
 ceansa_a	ceansa	aid	8670	cennsa
@@ -2427,11 +2432,12 @@ cearn3_nf	cearn^3	bain	8772	3 cern
 cearnach_a	cearnach	aid	8774	1 cernach
 cearnach_a	cearnach	aid	8775	2 cernach
 cearnamhán_nm	cearnamhán	fir	8780	cerndubán
-cearr	cearr		8782	cerr
+cearr_a	cearr	aid	8782	cerr
 cearrbhacán_nm	cearrbhacán	fir	8783	cerrbaccán
 cearrbhach_nm	cearrbhach	fir	8784	1 cerrbach
 cearrbhachas_nm	cearrbhachas	fir	8786	cerrbachas
-ceart	ceart		8787	1 cert
+ceart_a	ceart	aid	8787	1 cert
+ceart_nm	ceart	fir	8787	1 cert
 ceárta_nf	ceárta	bain	8761	cerdchae
 ceartaghaidh_s	ceartaghaidh	af	8787	1 cert
 ceartaigh_v	ceartaigh	br	8797	certaid
@@ -2445,7 +2451,7 @@ ceas_nm	ceas	fir	8814	1 ces
 céas_v	céas	br	8827	césaid
 céas_nm	céas	fir	8828	césán
 ceasacht_nf	ceasacht	bain	8821	cesacht
-ceasachtach	ceasachtach		8822	cesachtach
+ceasachtach_a	ceasachtach	aid	8822	cesachtach
 céasadóir_nm	céasadóir	fir	8831	césatóir
 ceasna_nm	ceasna	fir	8836	cesnad
 ceasnaí_nf	ceasnaí	bain	8838	? cesnaige
@@ -2456,12 +2462,12 @@ céastúnach_nm	céastúnach	fir	8859	céstúnach
 ceathair_nf	ceathair	bain	8918	cethir
 ceathair_nm	ceathair	fir	8908	cethair
 ceathairbheannach_a	ceathairbheannach	aid	8908	cethair
-ceathairchosach	ceathairchosach		8908	cethair
+ceathairchosach_a	ceathairchosach	aid	8908	cethair
 ceathairdhúileach_a	ceathairdhúileach	aid	8908	cethair
 ceathairuilleach_a	ceathairuilleach	aid	8908	cethair
 ceathartha_a	ceathartha	aid	8913	cethardae
 ceathra_nf	ceathra	bain	8925	cethrae
-ceathrach	ceathrach		8920	cethrach
+ceathrach_a	ceathrach	aid	8920	cethrach
 ceathracha_nm	ceathracha	fir	8921	cethracha
 ceathrachadú_nm	ceathrachadú	fir	8922	cethrachatmad
 ceathrar_nm	ceathrar	fir	8930	cethrar
@@ -2529,7 +2535,8 @@ ciamhair_a	ciamhair	aid	8973	cíabair
 ciamhair_a	ciamhair	aid	8999	cíamair
 ciamhaire_nf	ciamhaire	bain	8973	cíabair
 ciamhaire_nf	ciamhaire	bain	9000	cíamaire
-cian	cian		9003	cían
+cian_a	cian	aid	9003	cían
+cian_nf	cian	bain	9003	cían
 cianach_a	cianach	aid	9005	cíanach
 cianaimsir_nf	cianaimsir	bain	9003	cían
 cianaois_nf	cianaois	bain	9003	cían
@@ -2542,14 +2549,15 @@ ciap_v	ciap	br	9008	cíapa(ig)id
 ciapálach_a	ciapálach	aid	9010	cíapálach
 ciar_a	ciar	aid	9011	1 cíar
 ciarach_a	ciarach	aid	9013	cíarach
-ciardhubh	ciardhubh		9201	círdub
+ciardhubh_a	ciardhubh	aid	9201	círdub
+ciardhubh_nm	ciardhubh	fir	9201	círdub
 ciaróg_nf	ciaróg	bain	9017	cíaróc
 ciarsán_nm	ciarsán	fir	9020	cíarsán
 ciarsánach_a	ciarsánach	aid	9021	cíarsánach
 ciarsúr_nm	ciarsúr	fir	9022	cíarsúr
 ciartha_a	ciartha	aid	9023	cíartha
 cíb_nf	cíb	bain	9176	1 cíp
-cibé	cibé		8965	1 cía
+cibé_pron	cibé	fa	8965	1 cía
 cíchín_nm	cíchín	fir	9049	cíchín
 cifleog_nf	cifleog	bain	9079	cilfing
 cigil_v	cigil	br	25834	gigil
@@ -2565,7 +2573,7 @@ cin_v	cin	br	9137	cinid
 cín_nf	cín	bain	9105	cín
 Cincís_nf	Cincís	bain	9130	cingciges
 cine_nm	cine	fir	9138	ciniud
-cineál	cineál		8601	cenél
+cineál_nm	cineál	fir	8601	cenél
 cineálach_a	cineálach	aid	8603	2 cenélach
 cineálach_a	cineálach	aid	8605	cenéle
 cineálta_a	cineálta	aid	9126	cineolta
@@ -2596,7 +2604,8 @@ ciombal_nm	ciombal	fir	9089	cimbal
 cion1_nm	cion^1	fir	9104	cin
 cion3_nm	cion^2	fir	9104	cin
 cion2_nm	cion^3	fir	9104	cin
-ciontach	ciontach		9165	cintach
+ciontach_a	ciontach	aid	9165	cintach
+ciontach_nm	ciontach	fir	9165	cintach
 ciontaí_s	ciontaí	af	9166	cintaige
 ciontaigh_v	ciontaigh	br	9167	cintaigid
 cíor_nf	cíor	bain	9187	cír
@@ -2629,7 +2638,7 @@ císte_nm	císte	fir	9249	2 císte
 cistin_nf	cistin	bain	9250	cistenach
 cith_nm	cith	fir	9259	1 cith
 cithnéal_nm	cithnéal	fir	9259	1 cith
-cithréimeach	cithréimeach		9265	cithrumach
+cithréimeach_nm	cithréimeach	fir	9265	cithrumach
 ciúin_a	ciúin	aid	9274	ciúin
 ciúine_nf	ciúine	bain	9275	ciúine
 ciumhais_nf	ciumhais	bain	9088	cimas
@@ -2654,7 +2663,7 @@ claimhseach_nf	claimhseach	bain	9338	claimsech
 claíomh_nm	claíomh	fir	9324	claideb
 cláiréad_nm	cláiréad	fir	9340	clairéd
 cláirín_nm	cláirín	fir	9342	cláirín
-cláiríneach	cláiríneach		9343	cláirínech
+cláiríneach_nm	cláiríneach	fir	9343	cláirínech
 cláirseach_nf	cláirseach	bain	9345	cláirsech
 cláirseoir_nm	cláirseoir	fir	9346	cláirseóir
 clais_nf	clais	bain	9383	1 clas
@@ -2674,7 +2683,8 @@ claochlaitheach_a	claochlaitheach	aid	9301	cláechlaigt(h)ech
 claochlú_nm	claochlú	fir	10148	coímchloud
 claochlú_nm	claochlú	fir	9302	cláechlód
 claoine_nf	claoine	bain	9339	claíne
-claon	claon		9306	cláen
+claon_a	claon	aid	9306	cláen
+claon_nm	claon	fir	9306	cláen
 claon_v	claon	br	9308	cláenaid
 claonbheart_nm	claonbheart	fir	9306	cláen
 claonbhreith_nf	claonbhreith	bain	9306	cláen
@@ -2691,7 +2701,8 @@ clárfhiacail_nf	clárfhiacail	bain	9377	clár
 clármhachaire_nm	clármhachaire	fir	9377	clár
 clas_nf	clas	bain	9384	2 clas
 clasaigh_v	clasaigh	br	9388	? clasaid
-clé	clé		9397	clé
+clé_a	clé	aid	9397	clé
+clé_nf	clé	bain	9397	clé
 cleacht_v	cleacht	br	9407	clechtaid
 cleacht_nm	cleacht	fir	9402	2 clecht
 cleachtach_a	cleachtach	aid	9403	1 clechtach
@@ -2709,7 +2720,7 @@ cléireach_nm	cléireach	fir	9416	cléirech
 cléiriúil_a	cléiriúil	aid	9413	cléirchemail
 cléiriúil_a	cléiriúil	aid	9415	cléirchide
 cleite_nm	cleite	fir	9427	cleitte
-cleiteach	cleiteach		9428	cleittech
+cleiteach_nf	cleiteach	bain	9428	cleittech
 cleith1_nf	cleith^1	bain	9453	1 cleth
 cleith2_nf	cleith^2	bain	9454	2 cleth
 cléithín_nm	cléithín	fir	9424	? cléithíne, cléithín
@@ -2725,8 +2736,8 @@ cliarach_a	cliarach	aid	9480	clíarach
 cliaraí_nm	cliaraí	fir	9481	cliaraige
 cliaraíocht_nf	cliaraíocht	bain	9483	clíaraigecht
 cliath_nf	cliath	bain	9484	clíath
-cliathach	cliathach		9485	clíathach
-cliathach	cliathach		9489	clíathar
+cliathach_nf	cliathach	bain	9485	clíathach
+cliathach_nf	cliathach	bain	9489	clíathar
 cliathán_nm	cliathán	fir	9488	clíathán
 cling_nf	cling	bain	9497	clinn
 cling_v	cling	br	9498	clinnid
@@ -2800,21 +2811,21 @@ cluinteach_a	cluinteach	aid	9667	cluintech
 clúiteach_a	clúiteach	aid	9672	clúitech
 clúiteach_a	clúiteach	aid	9687	clúmar
 clúmh_nm	clúmh	fir	9680	clúm, clúim
-clúmhach	clúmhach		9681	1 clúmach
+clúmhach_a	clúmhach	aid	9681	1 clúmach
 clúmhach_a	clúmhach	aid	9690	clúm(th)ach
 clupaid_nf	clupaid	bain	13775	culpait
-clupaideach	clupaideach		13776	culpatach
+clupaideach_a	clupaideach	aid	13776	culpatach
 cluthar_a	cluthar	aid	9513	clithar, clethar
 cluthar_a	cluthar	aid	9700	cluthmar
 cnáfairt_nf	cnáfairt	bain	9714	cnáimred
 cnag_v	cnag	br	9705	cnagaid
 cnag_nm	cnag	fir	9704	cnag
-cnaí	cnaí		9710	cnaí(ded)
-cnaí	cnaí		9725	cnám
+cnaí_nm	cnaí	fir	9710	cnaí(ded)
+cnaí_nm	cnaí	fir	9725	cnám
 cnáib_nf	cnáib	bain	9717	cnáip
 cnáid_nf	cnáid	bain	9708	cnáid
 cnaígh_v	cnaígh	br	9709	cnaïd
-cnáimhseach	cnáimhseach		9716	cnáimsech
+cnáimhseach_nf	cnáimhseach	bain	9716	cnáimsech
 cnaíteach_a	cnaíteach	aid	9711	cnaídtech
 cnámh_nf	cnámh	bain	9712	cnáim
 cnámhach_a	cnámhach	aid	9726	cnámach
@@ -2830,7 +2841,7 @@ cneách_a	cneách	aid	9741	cnedach
 cneách_a	cneách	aid	9744	cnedmar
 cnead_nf	cnead	bain	9756	cnet
 cnead_v	cnead	br	9746	cneitid
-cneadach	cneadach		9757	cnetach
+cneadach_nf	cneadach	bain	9757	cnetach
 cneáigh_v	cneáigh	br	9743	cnedaigid
 cneas_nm	cneas	fir	9748	cnes
 cneasaigh_v	cneasaigh	br	9749	cnesaigid
@@ -2843,7 +2854,7 @@ cnoc_nm	cnoc	fir	9767	cnocc
 cnocach_a	cnocach	aid	9768	cnoccach
 cnocán_nm	cnocán	fir	9769	cnoccán
 cnóchoill_nf	cnóchoill	bain	9776	cnú
-cnódhonn	cnódhonn		9776	cnú
+cnódhonn_a	cnódhonn	aid	9776	cnú
 cnota_nm	cnota	fir	9775	cnota
 cnuas_nm	cnuas	fir	9778	cnúas
 cnuasach_nm	cnuasach	fir	9779	cnúasach
@@ -2923,12 +2934,12 @@ coigil_v	coigil	br	12011	con-ceil
 coigilt_nf	coigilt	bain	10072	coicill
 coigilteach_a	coigilteach	aid	10054	coiceltach
 coigríoch_nf	coigríoch	bain	10079	coicrích
-coigríochach	coigríochach		10080	coicríchach
+coigríochach_a	coigríochach	aid	10080	coicríchach
 coileach_nm	coileach	fir	7723	2 cailech
 coileán_nm	coileán	fir	13507	cuilén
 coiléar_nm	coiléar	fir	10111	1 coilér
 coilgneach_a	coilgneach	aid	13514	cuilgnech
-coilíneach	coilíneach		10119	coilín(ech)
+coilíneach_nm	coilíneach	fir	10119	coilín(ech)
 cóilis_nf	cóilis	bain	10121	cóilis
 coill_nf	coill	bain	7742	1 caill
 coill_v	coill	br	10126	1 coillid
@@ -2956,7 +2967,8 @@ coimheascar_nm	coimheascar	fir	10183	coimescar
 cóimhéid_nf	cóimhéid	bain	11512	comméit
 coimhlint_nf	coimhlint	bain	13554	cuimleng
 coimhlinteach_a	coimhlinteach	aid	13555	cuimlengach
-coimhthíoch	coimhthíoch		10692	comaithech
+coimhthíoch_a	coimhthíoch	aid	10692	comaithech
+coimhthíoch_nm	coimhthíoch	fir	10692	comaithech
 coimhthíos_nm	coimhthíos	fir	10690	comaithches
 coimín_nm	coimín	fir	10219	coimín
 coimirce_nf	coimirce	bain	11492	commairge
@@ -2994,7 +3006,7 @@ coinnealra_nm	coinnealra	fir	7803	caindelbrae
 coinneamh_nf	coinneamh	bain	10359	coinnem
 coinnigh_v	coinnigh	br	12134	con-gaib
 coinníoll_nm	coinníoll	fir	10345	coingell
-coinníollach	coinníollach		10346	coingellach
+coinníollach_a	coinníollach	aid	10346	coingellach
 coinnleach_a	coinnleach	aid	7809	1 caindlech
 coinnleoir_nm	coinnleoir	fir	7813	caindleóir
 coinnleoireacht_nf	coinnleoireacht	bain	7814	caindleóracht
@@ -3014,8 +3026,9 @@ coirbéal_nm	coirbéal	fir	10382	coirbél
 coirce_nm	coirce	fir	12444	corca
 coirceog_nf	coirceog	bain	12452	corcóg
 coire_nm	coire	fir	10386	coire
-coireach	coireach		7906	cairech
-coireach	coireach		7952	cairthech
+coireach_a	coireach	aid	7906	cairech
+coireach_a	coireach	aid	7952	cairthech
+coireach_nm	coireach	fir	7906	cairech
 coiréal_nm	coiréal	fir	10391	coirél
 coirigh_v	coirigh	br	7925	cairigid(ir)
 cóirigh_v	cóirigh	br	12420	córaigid, cóirigid, cóirgid
@@ -3023,7 +3036,8 @@ coirm_nf	coirm	bain	13666	cuirm
 coirmeach_a	coirmeach	aid	10398	coirmech
 coirmeach_a	coirmeach	aid	12479	cormach
 coirmtheach_nm	coirmtheach	fir	13668	cuirmthech
-coirneach	coirneach		7934	cairnech
+coirneach_a	coirneach	aid	7934	cairnech
+coirneach_nm	coirneach	fir	7934	cairnech
 coirnéal1_nm	coirnéal^1	fir	12489	cornél
 coirnéal2_nm	coirnéal^2	fir	10403	coirnéil
 coirnigh_v	coirnigh	br	10405	cóirnigid
