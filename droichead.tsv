@@ -3062,7 +3062,8 @@ coisric_v	coisric	br	12300	con-secra
 coiste_nm	coiste	fir	10448	coiste
 cóiste_nm	cóiste	fir	10449	cóiste
 coite_nm	coite	fir	10459	1 coite
-coiteann	coiteann		10455	coitchenn
+coiteann_a	coiteann	aid	10455	coitchenn
+coiteann_nm	coiteann	fir	10455	coitchenn
 coitinne_nf	coitinne	bain	10457	coitchennas
 coitinne_nf	coitinne	bain	10458	coitchinne
 col_nm	col	fir	10473	col
@@ -3094,7 +3095,7 @@ colún_nm	colún	fir	10548	columa
 colúr_nm	colúr	fir	10553	colúr
 comair_a	comair	aid	13857	cummair
 comaoin_nf	comaoin	bain	11489	commaín
-comaoineach	comaoineach		11502	comman
+comaoineach_nf	comaoineach	bain	11502	comman
 comha_nf	comha	bain	10558	coma
 comhábhar_nm	comhábhar	fir	10576	comadbar
 comhacmhainneach_a	comhacmhainneach	aid	10561	comaccmaic
@@ -3108,7 +3109,7 @@ comhaimseartha_a	comhaimseartha	aid	10613	comaimserdae
 comhaimsearthacht_nf	comhaimsearthacht	bain	10612	comaimser(d)acht
 comhaimsir_nf	comhaimsir	bain	10610	comaimser
 comhainm_nm	comhainm	fir	10620	comainm
-comhainmneach	comhainmneach		10622	comainmnigthech
+comhainmneach_a	comhainmneach	aid	10622	comainmnigthech
 cómhaíomh_nm	cómhaíomh	fir	11482	commaídem
 comhair_nf	comhair	bain	10630	comair
 comhair_v	comhair	br	10655	comáirid
@@ -3123,12 +3124,12 @@ comhairliú_nm	comhairliú	fir	10661	comairled
 comhairliú_nm	comhairliú	fir	10668	comairliugud
 comhaiseag_nm	comhaiseag	fir	10679	comaisec
 comhaisnéis_nf	comhaisnéis	bain	10680	comaisndís
-cómhaith	cómhaith		11494	commaith
+cómhaith_a	cómhaith	aid	11494	commaith
 cómhalairt_nf	cómhalairt	bain	11496	commalairt
 comhall_nm	comhall	fir	10708	comall
 comhallach_a	comhallach	aid	10718	comaltach
-comhalta	comhalta		10717	comalta
-comhalta	comhalta		10976	comdalta
+comhalta_nm	comhalta	fir	10717	comalta
+comhalta_nm	comhalta	fir	10976	comdalta
 comhaltas_nm	comhaltas	fir	10720	comaltas
 comhaois_nf	comhaois	bain	10588	comáes
 comhaonta_nf	comhaonta	bain	10586	comáentu
@@ -3139,7 +3140,8 @@ comhar_nm	comhar	fir	10733	comar
 comharba_nm	comharba	fir	10741	comarb(b)ae
 comharbas_nm	comharbas	fir	10740	comarb(b)acht
 comharbas_nm	comharbas	fir	10742	comarbus
-comh-ard	comh-ard		10744	comard
+comh-ard_a	comh-ard	aid	10744	comard
+comh-ard_nm	comh-ard	fir	10744	comard
 comh-ardacht_nf	comh-ardacht	bain	10746	1 comardae
 comhardadh_nm	comhardadh	fir	10745	comardad
 comhardaigh_v	comhardaigh	br	10749	comarda(ig)id
@@ -3167,7 +3169,7 @@ comhchéim_nf	comhchéim	bain	10141	coimchéim
 comhchiall_nf	comhchiall	bain	10890	comchíall
 comhchliamhain_nm	comhchliamhain	fir	10145	coimchlíamain
 comhchogar_nm	comhchogar	fir	10906	comchocur
-comhchoibhneasach	comhchoibhneasach		10907	comchoibnesta
+comhchoibhneasach_a	comhchoibhneasach	aid	10907	comchoibnesta
 comhchoiteann_a	comhchoiteann	aid	10915	comchoitchenn
 comhchoiteann_a	comhchoiteann	aid	10916	comchoitchinne
 comhchosúil_a	comhchosúil	aid	10932	comchosmail
@@ -3210,11 +3212,11 @@ comhghnás_nm	comhghnás	fir	11302	comgnás
 comhghrádú_nm	comhghrádú	fir	11313	1 comgrád
 comhghríosaigh_v	comhghríosaigh	br	11318	comgresid
 comhghuaillí_nm	comhghuaillí	fir	11323	comgúaillid
-comhiomlán	comhiomlán		11340	comimlán
+comhiomlán_a	comhiomlán	aid	11340	comimlán
 comhionann_a	comhionann	aid	10220	coiminann
 comhionann_a	comhionann	aid	11354	cominann
 comhla_nf	comhla	bain	11379	comla
-comhlach	comhlach		11386	comlach
+comhlach_a	comhlach	aid	11386	comlach
 comhlacht_nm	comhlacht	fir	11468	comlucht
 comhláine_nf	comhláine	bain	11393	comláine
 comhláine_nf	comhláine	bain	11394	comláinius
@@ -3247,7 +3249,7 @@ comhrá_nm	comhrá	fir	11630	comrád
 comhrac_nm	comhrac	fir	11625	1 comrac
 comhraic_v	comhraic	br	12269	con-ricc
 comhraiceach_a	comhraiceach	aid	11640	comraigthech
-comhráiteach	comhráiteach		11644	comráitech
+comhráiteach_a	comhráiteach	aid	11644	comráitech
 comhramh_nm	comhramh	fir	11648	comram
 comhramhach_a	comhramhach	aid	11649	comramach
 comhréidh_a	comhréidh	aid	11657	comréid
@@ -3332,7 +3334,7 @@ conlaigh_v	conlaigh	br	12236	connlaigid
 conlán_nm	conlán	fir	12237	connlán
 conmhaor_nm	conmhaor	fir	13291	1 cú
 conn_nm	conn	fir	12215	conn
-Connachtach	Connachtach		12218	Connachtach
+Connachtach_nm	Connachtach	fir	12218	Connachtach
 connadh_nm	connadh	fir	12219	connad
 connail_a	connail	aid	13939	cunnail
 connailbhe_nf	connailbhe	bain	12054	condalbae
@@ -3376,7 +3378,7 @@ corca_nf	corca	bain	12441	3 corc
 corcach_nf	corcach	bain	12445	1 corcach
 corcair_nf	corcair	bain	12448	corcair
 corcán_nm	corcán	fir	13036	croccán
-corcra	corcra		12453	corcra
+corcra_a	corcra	aid	12453	corcra
 corcraigh_v	corcraigh	br	12447	corcaid
 corcraigh_v	corcraigh	br	12456	corcraid
 corda_nm	corda	fir	12462	corda
@@ -3452,9 +3454,10 @@ cóta1_nm	cóta^1	fir	12642	1 cóta
 cóta2_nm	cóta^2	fir	12643	2 cóta
 coth_nm	coth	fir	12667	coth
 cothaigh_v	cothaigh	br	12669	cothaigid
-cothaitheach	cothaitheach		12671	cothaigthech
+cothaitheach_a	cothaitheach	aid	12671	cothaigthech
 cothroime_nf	cothroime	bain	11908	comthrumma
-cothrom	cothrom		11901	comthrom
+cothrom_a	cothrom	aid	11901	comthrom
+cothrom_nm	cothrom	fir	11901	comthrom
 cothromaigh_v	cothromaigh	br	11902	comthroma(ig)id
 cothromaíocht_nf	cothromaíocht	bain	14057	cutrummacht
 cothromas_nm	cothromas	fir	11903	comthromas
@@ -3475,7 +3478,7 @@ crampa_nm	crampa	fir	13264	crumpa
 cránas_nm	cránas	fir	12734	craidenus
 cranda_a	cranda	aid	12761	crannda
 crann_nm	crann	fir	12753	crann
-crannach	crannach		12754	crannach
+crannach_nf	crannach	bain	12754	crannach
 crannadóir_nm	crannadóir	fir	12756	crannadóir
 crannaíl_nf	crannaíl	bain	12762	1 cranngal
 crannán_nm	crannán	fir	12759	crannán
@@ -3496,7 +3499,7 @@ craobhscaoil_v	craobhscaoil	br	12716	cráebscaílid
 craobhuasal_a	craobhuasal	aid	12707	cráeb
 craoibhín_nm	craoibhín	fir	12712	cráebín
 craoiseach_nf	craoiseach	bain	13239	cruísech
-craorag	craorag		13068	croderg
+craorag_a	craorag	aid	13068	croderg
 craos_nm	craos	fir	12717	cráes
 craosach_a	craosach	aid	12718	cráesach
 craosach_a	craosach	aid	12721	cráesta
@@ -3523,7 +3526,8 @@ creachaire_nm	creachaire	fir	12796	crechaire
 creachaireacht_nf	creachaireacht	bain	12797	crechairecht
 creachán_nm	creachán	fir	12798	? crechán
 créacht_nf	créacht	bain	12800	crécht
-créachtach	créachtach		12801	créchtach
+créachtach_a	créachtach	aid	12801	créchtach
+créachtach_nm	créachtach	fir	12801	créchtach
 créachtaigh_v	créachtaigh	br	12807	créchtnaigid
 créad_interr	créad	ceist	12881	crét
 creadair_nf	creadair	bain	12883	cretair
@@ -3537,26 +3541,29 @@ creapascal_s	creapascal	af	12867	crepuscul
 creasca_nm	creasca	fir	12873	crescae
 creat_nm	creat	fir	12893	crett
 creath_v	creath	br	12888	crethaid, crithid
-creathach	creathach		12887	2 crethach
-creathach	creathach		12999	crithach
+creathach_a	creathach	aid	12887	2 crethach
+creathach_a	creathach	aid	12999	crithach
+creathach_nf	creathach	bain	12887	2 crethach
+creathach_nf	creathach	bain	12999	crithach
 creathán_nm	creathán	fir	13002	crithán
 creathánach_a	creathánach	aid	13003	crithánach
-creathnach	creathnach		13016	crithnaigthech
+creathnach_a	creathnach	aid	13016	crithnaigthech
 creathnaigh_v	creathnaigh	br	13014	crithnaigid
 créatúr_nm	créatúr	fir	12894	crétúir
 creic_nf	creic	bain	12831	cre(i)cc
 creid_v	creid	br	12847	creitid
 creideamh_nm	creideamh	fir	12843	creitem
 creidiúint_nf	creidiúint	bain	12843	creitem
-creidmheach	creidmheach		12848	creitmech
+creidmheach_a	creidmheach	aid	12848	creitmech
+creidmheach_nm	creidmheach	fir	12848	creitmech
 creig_nf	creig	bain	12787	crec
 creig_nf	creig	bain	36615	screc
 creill_nf	creill	bain	12732	craidáil
 creill_nf	creill	bain	12832	creidill
 creim_v	creim	br	12836	creimmid
 creimeadh_nm	creimeadh	fir	12835	creimm
-creimneach	creimneach		12855	cremmannach
-creimneach	creimneach		12942	crimnach
+creimneach_a	creimneach	aid	12855	cremmannach
+creimneach_a	creimneach	aid	12942	crimnach
 créúil_a	créúil	aid	12813	2 créda
 créúil_a	créúil	aid	12898	críadaide
 créúil_a	créúil	aid	12900	críadamail
@@ -3564,7 +3571,7 @@ cré-umha_nm	cré-umha	fir	12828	crédumae
 criaga_a	criaga	aid	12898	críadaide
 criaire_nm	criaire	fir	12899	críadaire
 criathar_nm	criathar	fir	12904	críathar
-criathrach	criathrach		12905	críathrach
+criathrach_nm	criathrach	fir	12905	críathrach
 criathraigh_v	criathraigh	br	12907	críathraid
 críne_nf	críne	bain	12954	críne
 crinn_v	crinn	br	12838	creinnid
@@ -3577,7 +3584,8 @@ críochaigh_v	críochaigh	br	12915	críchaid
 críochnaigh_v	críochnaigh	br	12920	críchnaigid
 críochnaitheach_a	críochnaitheach	aid	12922	críchnaigthech
 críol_nm	críol	fir	12971	criōl
-críon	críon		12944	crín
+críon_a	críon	aid	12944	crín
+críon_nm	críon	fir	12944	crín
 críon_v	críon	br	12950	crínaid
 críonach_nm	críonach	fir	12946	crínach
 críonach_nm	críonach	fir	12956	crínlach
@@ -3590,7 +3598,8 @@ crioslach_nm	crioslach	fir	12978	crislach
 crioslaigh_v	crioslaigh	br	12979	crisla(ig)id
 criosma_nm	criosma	fir	12981	crisma
 Críost_nm	Críost	fir	12985	Críst
-Críostaí	Críostaí		12986	Crístaide
+Críostaí_a	Críostaí	aid	12986	Crístaide
+Críostaí_nm	Críostaí	fir	12986	Crístaide
 Críostaíocht_nf	Críostaíocht	bain	12987	Crístaidecht
 criostal_nm	criostal	fir	12988	cristall
 criostalta_a	criostalta	aid	12989	cristal(l)da
@@ -3626,8 +3635,8 @@ croí_nm	croí	fir	12925	cride
 croíán_nm	croíán	fir	12932	cridén
 croíbhrú_nm	croíbhrú	fir	12925	cride
 croíleacán_nm	croíleacán	fir	12926	cridecán
-cróilí	cróilí		13097	crólige
-cróilí	cróilí		13098	cróligech
+cróilí_nm	cróilí	fir	13097	crólige
+cróilí_a	cróilí	aid	13098	cróligech
 croime_nf	croime	bain	13221	cruimme
 croiméal_nm	croiméal	fir	13103	cromm
 cróinéir_nm	cróinéir	fir	13225	cruiner
@@ -3648,7 +3657,8 @@ cromruathar_nm	cromruathar	fir	13103	cromm
 cromshrónach_a	cromshrónach	aid	13103	cromm
 cron_nm	cron	fir	13107	cron
 cron_nm	cron	fir	26699	gron
-crón	crón		13108	crón
+crón_a	crón	aid	13108	crón
+crón_nm	crón	fir	13108	crón
 cronaigh_v	cronaigh	br	13110	cronai(gi)d
 crónán_nm	crónán	fir	13112	crónán
 crónán_nm	crónán	fir	13114	crónánacht
@@ -3669,9 +3679,9 @@ crostóir_nm	crostóir	fir	13143	crostóir
 crotal_nm	crotal	fir	13158	crottball
 crothal_nf	crothal	bain	13151	crothal
 crú2_nm	crú^2	fir	13207	1 crúd
-crua	crua		13191	crúaid
 crua_a	crua	aid	13191	crúaid
 crua_nf	crua	bain	13192	crúaide
+crua_nm	crua	fir	13191	crúaid
 cruach_v	cruach	br	13172	crúachaid
 cruach1_nf	cruach^1	bain	13167	1 crúach
 cruach2_nf	cruach^2	bain	13191	crúaid
@@ -3690,7 +3700,7 @@ cruán_nm	cruán	fir	13185	crúadán
 cruas_nm	cruas	fir	13200	crúas
 cruatan_nm	cruatan	fir	13201	crúatan
 crúb_nf	crúb	bain	13202	crúb
-crúbach	crúbach		13203	crúbach
+crúbach_a	crúbach	aid	13203	crúbach
 crúca_nm	crúca	fir	13204	crúca
 cruibhéad_nm	cruibhéad	fir	13215	cruibét
 crúibín_nm	crúibín	fir	13216	crúibín
@@ -3710,7 +3720,7 @@ cruinnteach_nm	cruinnteach	fir	13226	cruinn
 crúiscín_nm	crúiscín	fir	13237	crúiscín
 cruit_nf	cruit	bain	13156	crott
 cruiteach_a	cruiteach	aid	13157	crottach
-Cruithneach	Cruithneach		13245	Cruithnech
+Cruithneach_nm	Cruithneach	fir	13245	Cruithnech
 cruithneacht_nf	cruithneacht	bain	13247	cruithnecht
 cruitíneach_nm	cruitíneach	fir	13251	cruitín
 cruitire_nm	cruitire	fir	13255	cruittire
@@ -3747,7 +3757,8 @@ cual_nm	cual	fir	13330	cúal
 cuallacht_nf	cuallacht	bain	13332	cúallacht
 cuan_nm	cuan	fir	13335	2 cúan
 cuanna_a	cuanna	aid	13346	1 cúanna
-cuar	cuar		13349	cúar
+cuar_a	cuar	aid	13349	cúar
+cuar_nm	cuar	fir	13349	cúar
 cuar_v	cuar	br	13352	cúaraid
 cuarán_nm	cuarán	fir	13353	cúarán
 cuardaigh_v	cuardaigh	br	13359	cúartaid
@@ -3772,7 +3783,7 @@ cuibheas_nm	cuibheas	fir	13459	cuibdius
 cuibheasach_a	cuibheasach	aid	13456	cuibdesach
 cuibhreach_nm	cuibhreach	fir	13575	cuimrech
 cuibhreann_nm	cuibhreann	fir	13464	cuibrenn
-cuibhreannach	cuibhreannach		13465	cuibrennach
+cuibhreannach_nm	cuibhreannach	fir	13465	cuibrennach
 cuibhrigh_v	cuibhrigh	br	12271	con-rig
 cuid_nf	cuid	bain	13717	cuit
 cuideachta_nf	cuideachta	bain	13729	cuitechta
@@ -3780,13 +3791,16 @@ cuideog_nf	cuideog	bain	13732	cuiteóc
 cuidí_nm	cuidí	fir	10466	coitide
 cuidigh_v	cuidigh	br	13739	cuiti(gi)d
 cuiditheach_a	cuiditheach	aid	13741	cuitigthech
-cúig	cúig		10037	cóic
+cúig_card	cúig	uimh	10037	cóic
 cúige_nm	cúige	fir	10045	cóiced
-cúigeach	cúigeach		10046	cóicedach
+cúigeach_a	cúigeach	aid	10046	cóicedach
+cúigeach_nf	cúigeach	bain	10046	cóicedach
+cúigeach_nm	cúigeach	fir	10046	cóicedach
 cúigeachas_nm	cúigeachas	fir	10047	cóicedachas
 cuigeann_nf	cuigeann	bain	13411	cucann
 cúigear_nm	cúigear	fir	10057	cóicer
-cúigiú	cúigiú		10045	cóiced
+cúigiú_nm	cúigiú	fir	10045	cóiced
+cúigiú_ord	cúigiú	ord	10045	cóiced
 cuil_nf	cuil	bain	13495	1 cuil
 cúil_nf	cúil	bain	13497	cúil
 cuilce_nf	cuilce	bain	13499	cuilcech
@@ -3814,11 +3828,11 @@ cuin_interr	cuin	ceist	13592	cuin
 cuing_nf	cuing	bain	10068	2 cóich
 cuing_nf	cuing	bain	13611	cuing
 cúinge_nf	cúinge	bain	13837	cumgae
-cuingealach	cuingealach		13613	cuingelach
+cuingir_nf	cuingir	bain	13613	cuingelach
 cuingíocht_nf	cuingíocht	bain	13617	cuingidecht
 cuingir_nf	cuingir	bain	13619	cuingir
 cúinne_nm	cúinne	fir	13624	cúinne
-cúinneach	cúinneach		13626	cúinnech
+cúinneach_a	cúinneach	aid	13626	cúinnech
 cuinneog_nf	cuinneog	bain	13627	cuinneóc
 cúinse_nm	cúinse	fir	13632	cuin(n)siu
 cuir_v	cuir	br	13660	1 cuirid
@@ -3839,8 +3853,9 @@ cúisín_nm	cúisín	fir	13700	cuisian
 cúisín_nm	cúisín	fir	13703	cuisin
 cuisle_nf	cuisle	bain	13704	cuisle
 cuisle_nf	cuisle	bain	13715	cuisrinn
-cuisleannach	cuisleannach		13707	1 cuislennach
-cuisleannach	cuisleannach		13708	2 cuislennach
+cuisleannach_a	cuisleannach	aid	13707	1 cuislennach
+cuisleannach_nm	cuisleannach	fir	13707	1 cuislennach
+cuisleannach_nm	cuisleannach	fir	13708	2 cuislennach
 cuisleannacht_nf	cuisleannacht	bain	13706	cuislenacht
 cuisleoir_nm	cuisleoir	fir	13709	cuisleóir
 cuisne_nm	cuisne	fir	13710	cuisne
@@ -3872,7 +3887,7 @@ cum_v	cum	br	13853	cummaid
 cuma_nf	cuma	bain	13852	cummae
 cumadóir_nm	cumadóir	fir	13867	cummatóir
 cumadóireacht_nf	cumadóireacht	bain	13868	cummatóirecht
-cumaí	cumaí		13854	cummaide
+cumaí_a	cumaí	aid	13854	cummaide
 cumaisc_v	cumaisc	br	12211	con-mesca
 cumann_nm	cumann	fir	11506	commann
 cumar_nm	cumar	fir	11507	commar
@@ -3902,7 +3917,8 @@ cúnaigh_v	cúnaigh	br	12175	con-gní
 cúnamh_nm	cúnamh	fir	12172	congnam
 cúnant_nm	cúnant	fir	13875	cumnant(a)
 cúnantóir_nm	cúnantóir	fir	12701	cóvenantair
-cúng	cúng		13923	cumung
+cúng_a	cúng	aid	13923	cumung
+cúng_nm	cúng	fir	13923	cumung
 cúngach_nm	cúngach	fir	13817	cumangrach
 cúngach_nm	cúngach	fir	13835	2 cumgach
 cúngach_nm	cúngach	fir	13841	cumgrach
