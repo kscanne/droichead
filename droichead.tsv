@@ -7019,14 +7019,15 @@ gabháltóir_nm	gabháltóir	fir	25043	gabáltóir
 gabhann_nm	gabhann	fir	26283	gobang
 gabhar_nf	gabhar	bain	25058	2 gabor
 gabhar_nm	gabhar	fir	25057	1 gabor
-gabhlach	gabhlach		25047	gablach
+gabhlach_a	gabhlach	aid	25047	gablach
+gabhlach_nf	gabhlach	bain	25047	gablach
 gabhlaigh_v	gabhlaigh	br	25049	gablaid
 gabhlaigh_v	gabhlaigh	br	25050	gablaigid
 gabhlán1_nm	gabhlán^1	fir	25051	1 gablán
 gabhlán3_nm	gabhlán^3	fir	25052	2 gablán
 gabhlánach_a	gabhlánach	aid	25053	gablánach
 gabhlóg_nf	gabhlóg	bain	25055	gablóc
-gach	gach		7528	cach, cech
+gach_a	gach	aid	7528	cach, cech
 gad_nm	gad	fir	25449	1 gat
 gadaí_nm	gadaí	fir	25453	gataige
 gadaíocht_nf	gadaíocht	bain	25454	gataigecht
@@ -7103,7 +7104,8 @@ gaisteoir_nm	gaisteoir	fir	26337	goisteóir
 gaisteoireacht_nf	gaisteoireacht	bain	26338	goisteóirecht
 gáitéar_nm	gáitéar	fir	26811	guitéar
 gaithleann_nf	gaithleann	bain	25275	gaithlenn
-gaithleannach	gaithleannach		25276	gaithlennach
+gaithleannach_a	gaithleannach	aid	25276	gaithlennach
+gaithleannach_nm	gaithleannach	fir	25276	gaithlennach
 gal_nf	gal	bain	25277	1 gal
 galach_a	galach	aid	25280	1 galach
 galaigh_v	galaigh	br	25285	galaigidir
@@ -7115,7 +7117,7 @@ gall_nm	gall	fir	25308	1 Gall
 gallán_nm	gallán	fir	14407	Dallán
 gallán_nm	gallán	fir	25309	2 gall
 gallán_nm	gallán	fir	25318	gallán
-gallbhách	gallbhách		25308	1 Gall
+gallbhách_a	gallbhách	aid	25308	1 Gall
 gallbhéarla_nm	gallbhéarla	fir	25308	1 Gall
 gallda_a	gallda	aid	25320	gallda
 galldachas_nm	galldachas	fir	25322	galldacht
@@ -7181,7 +7183,7 @@ garrán_nm	garrán	fir	25419	garrán
 gart_nm	gart	fir	25427	1 gart
 gartach2_a	gartach^1	aid	25431	1 gartach
 gartach1_a	gartach^2	aid	25432	2 gartach
-gárthach	gárthach		25230	gáirfedach
+gárthach_nf	gárthach	bain	25230	gáirfedach
 garúil_a	garúil	aid	25377	garamhuil
 gas_nm	gas	fir	25440	gas
 gasán_nm	gasán	fir	25441	gasán
@@ -7214,7 +7216,7 @@ gealladh_nm	gealladh	fir	25588	gellam
 gealladh_nm	gealladh	fir	25589	gellamain
 gealltanas_nm	gealltanas	fir	25594	gelltanus
 gealt_nf	gealt	bain	25518	1 geilt
-gealtach	gealtach		25599	geltach
+gealtach_a	gealtach	aid	25599	geltach
 gealtachas_nm	gealtachas	fir	25600	geltachas
 gealtacht_nf	gealtacht	bain	25601	geltacht
 gealtán_nm	gealtán	fir	25605	geltán
@@ -7236,24 +7238,24 @@ geanmnaíocht_nf	geanmnaíocht	bain	25679	genmnaidecht
 geantraí_nf	geantraí	bain	25697	gentraige
 geanúil_a	geanúil	aid	25649	genamail
 geanúlacht_nf	geanúlacht	bain	25650	genamlacht
-géar	géar		25709	gér
+géar_a	géar	aid	25709	gér
 géaraigh_v	géaraigh	br	25710	géraid
 géaraigh_v	géaraigh	br	25712	géraigid
 géaraíocht_nf	géaraíocht	bain	25711	géraigecht
-Gearaltach	Gearaltach		25715	geraltach
+Gearaltach_nm	Gearaltach	fir	25715	geraltach
 gearán_v	gearán	br	25719	geránaid
 gearán_v	gearán	br	25720	geránaigid
 gearán_nm	gearán	fir	25717	gerán
 géarán_nm	géarán	fir	25716	gérán
-gearánach	gearánach		25718	geránach
+gearánach_a	gearánach	aid	25718	geránach
 gearb_nf	gearb	bain	25724	gerb
-gearbach	gearbach		25725	gerbach
+gearbach_a	gearbach	aid	25725	gerbach
 géarchúis_nf	géarchúis	bain	25709	gér
 géarchúiseach_a	géarchúiseach	aid	25728	gérchúisech
 gearg_nf	gearg	bain	25727	gercc
 géarghoineach_a	géarghoineach	aid	25709	gér
 Gearmáin_nf	Gearmáin	bain	25739	Germáin
-Gearmánach	Gearmánach		25740	germáinech
+Gearmánach_a	Gearmánach	aid	25740	germáinech
 gearr_a	gearr	aid	25744	gerr
 gearr_v	gearr	br	25748	gerraid
 gearr_v	gearr	br	25749	gerraigid
@@ -7273,7 +7275,7 @@ geata_nm	geata	fir	25474	geata
 geata_nm	geata	fir	25708	gepta
 geataire_nm	geataire	fir	25784	getal, gedal, gétal
 géibheann_nm	géibheann	fir	25480	gébend
-géibheannach	géibheannach		25481	gébennach
+géibheannach_a	géibheannach	aid	25481	gébennach
 geil_v	geil	br	25582	gelid
 géill_v	géill	br	25795	gíallaid
 géilliúil_a	géilliúil	aid	25809	gíalltach
@@ -7283,14 +7285,15 @@ geilt_nf	geilt	bain	25596	1 gelt
 géim_nf	géim	bain	25520	géim
 géim_v	géim	br	25524	géimid
 geimheal_nf	geimheal	bain	25619	gemel
-geimhleach	geimhleach		25623	gemlech
+geimhleach_a	geimhleach	aid	25623	gemlech
+geimhleach_nm	geimhleach	fir	25623	gemlech
 geimhligh_v	geimhligh	br	25626	gemligid
 geimhreadh_nm	geimhreadh	fir	25633	gemred, gaimred
 geimhrigh_v	geimhrigh	br	25528	geimrigid
 geimhriúil_a	geimhriúil	aid	25634	gemreta
 géimneach_nf	géimneach	bain	25526	géimnech
 geir_nf	geir	bain	25547	1 geir
-géire	géire		25730	gére
+géire_nf	géire	bain	25730	gére
 geireach_a	geireach	aid	25762	gerthide
 geireann_nm	geireann	fir	25738	gerind
 geirnín_nm	geirnín	fir	25743	gernín
@@ -7324,12 +7327,13 @@ ginearál_nm	ginearál	fir	25666	generál
 ginearálta_a	ginearálta	aid	25668	generálta, generáilte
 ginearáltacht_nf	ginearáltacht	bain	25667	generálacht
 ginid_nf	ginid	bain	25673	genit
-ginideach	ginideach		25675	genitiu
+ginideach_nm	ginideach	fir	25675	genitiu
 giniúint_nf	giniúint	bain	25542	1 geint
 giniúint_nf	giniúint	bain	25664	genemain
 giniúnach_a	giniúnach	aid	25665	genemnach
 ginte_npl	ginte	iol	25690	genti
-gintlí	gintlí		25694	gentlide
+gintlí_a	gintlí	aid	25694	gentlide
+gintlí_nm	gintlí	fir	25694	gentlide
 gintlíocht_nf	gintlíocht	bain	25695	gentlidecht
 gintlíocht_nf	gintlíocht	bain	25696	gentliucht
 giobach_a	giobach	aid	25815	gibach
@@ -7344,7 +7348,7 @@ giollacht_nf	giollacht	bain	25846	gillaidecht
 giollán_nm	giollán	fir	25847	1 gillán
 giollanra_nm	giollanra	fir	25849	gillanrad
 gíománach_nm	gíománach	fir	25882	gíománach
-gion	gion		25866	gin
+gion_nm	gion	fir	25866	gin
 gionach_a	gionach	aid	25867	ginach
 gionchraos_nm	gionchraos	fir	25866	gin
 giorac_nm	giorac	fir	25884	giorac
@@ -7353,7 +7357,7 @@ giorra_nf	giorra	bain	25894	girra, girre
 giorria_nm	giorria	fir	25744	gerr
 giorta_nm	giorta	fir	25885	giorta
 giotár_nm	giotár	fir	25900	gitart
-Giúdach	Giúdach		29196	Iúdaid
+Giúdach_nm	Giúdach	fir	29196	Iúdaid
 giúis_nf	giúis	bain	25910	giús
 giúistís_nm	giúistís	fir	25916	giustís
 giúistís_nm	giúistís	fir	29230	iustís
@@ -7390,7 +7394,7 @@ glamh_nf	glamh	bain	25943	glaim
 glámh_nf	glámh	bain	25963	1 glám
 glámh_v	glámh	br	25967	glámaid
 glámhach_a	glámhach	aid	25965	glámach
-glan	glan		25974	glan
+glan_a	glan	aid	25974	glan
 glan_v	glan	br	25977	glanaid
 glanchroíoch_a	glanchroíoch	aid	25974	glan
 glanradharcach_a	glanradharcach	aid	25974	glan
@@ -7575,7 +7579,7 @@ gor_a	gor	aid	26396	2 gor
 gor_v	gor	br	26804	guirid
 gor_nm	gor	fir	26395	1 gor
 goradh_nm	goradh	fir	26400	gorad
-gorm	gorm		26408	gorm
+gorm_a	gorm	aid	26408	gorm
 gormaigh_v	gormaigh	br	26412	gormaid
 gormán_nm	gormán	fir	26413	gormán
 gort1_nm	gort^1	fir	26421	1 gort
@@ -7646,10 +7650,10 @@ gráta_nm	gráta	fir	26543	1 gráta
 greabhán_nm	greabhán	fir	26549	grebán
 gread_v	gread	br	26566	gredaid
 greadhain_nf	greadhain	bain	26568	gredan
-greadhnach	greadhnach		26569	grednach
+greadhnach_a	greadhnach	aid	26569	grednach
 greadloscadh_nm	greadloscadh	fir	26564	gred
 gréagach_a	gréagach	aid	26553	grécach
-Gréagach	Gréagach		26552	gréc
+Gréagach_nm	Gréagach	fir	26552	gréc
 greallach1_nf	greallach^1	bain	26586	1 grellach
 greallach2_nf	greallach^2	bain	26587	2 grellach
 greamaigh_v	greamaigh	br	26590	gremmaigid
@@ -7686,7 +7690,7 @@ griangha_nm	griangha	fir	26629	grian
 grianghoradh_nm	grianghoradh	fir	26628	grían
 grianmhar_a	grianmhar	aid	26638	gríanmar
 grideall_nf	grideall	bain	26624	gretel
-grinn	grinn		26654	grind
+grinn_a	grinn	aid	26654	grind
 grinne_nm	grinne	fir	26655	1 grinde
 grinne_nm	grinne	fir	26656	2 grinde
 grinneall_nm	grinneall	fir	26659	grindell
@@ -7699,8 +7703,8 @@ gríofa_a	gríofa	aid	26642	gríbda
 griolladh_nm	griolladh	fir	26650	grilla
 griongalach_a	griongalach	aid	26661	gringalach
 gríos_nm	gríos	fir	26675	grís
-gríosach	gríosach		26676	1 grísach
-gríosach	gríosach		26677	2 grísach
+gríosach_nf	gríosach	bain	26676	1 grísach
+gríosach_a	gríosach	aid	26677	2 grísach
 gríosaigh_v	gríosaigh	br	26680	grísaid
 gríosaigh_v	gríosaigh	br	26681	grísaigid
 gríosghoradh_nm	gríosghoradh	fir	26675	grís
@@ -7730,7 +7734,7 @@ gruthrach_nf	gruthrach	bain	26735	gruthrach
 guaillí_nm	guaillí	fir	26744	gúaillide
 guaillíocht_nf	guaillíocht	bain	26745	gúaillidecht
 guaire1_nm	guaire^1	fir	26746	1 gúaire
-guaireach	guaireach		26749	gúairech
+guaireach_nf	guaireach	bain	26749	gúairech
 gírle guairle	gírle guairle		25893	girle guairle
 guairneán_nm	guairneán	fir	26806	gúirnín
 guais1_nf	guais^1	bain	26759	gúas
@@ -7747,7 +7751,7 @@ gubha_nm	gubha	fir	26768	guba
 gubhach_a	gubhach	aid	26769	? gubadach
 guí_nf	guí	bain	26785	guide
 guigh_v	guigh	br	26788	guidid
-guilbneach	guilbneach		26817	gulbnech
+guilbneach_a	guilbneach	aid	26817	gulbnech
 guilbneán_nm	guilbneán	fir	26818	gulbnén
 guíodóir_nm	guíodóir	fir	26786	guidech
 guíodóir_nm	guíodóir	fir	26787	guidedóir
