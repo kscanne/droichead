@@ -28,7 +28,6 @@ my %poshash = (
 	'pronm' => '',
 	'card' => 'uimh',
 	'art' => 'alt',
-	'NONE' => '',
 );
 
 open(DROICHEAD, "<:utf8", "droichead.tsv") or die "Could not open droichead.tsv: $!";
@@ -45,11 +44,14 @@ while (<DROICHEAD>) {
 	}
 	print "bad eDIL ref on line $.: $num\n" unless ($num =~ m/^[1-9][0-9]*$/ and $num < 44000);
 	print "weird eDIL headword on line $.: $edil\n" unless (length($edil)>0);
-	print "unknown POS on line $.: $igpos\n" unless (exists($poshash{$igpos}));
-	print "POS strings don't match on line $.: $igpos vs $pos\n" unless (exists($poshash{$igpos}) and $poshash{$igpos} eq $pos);
+	print "unknown POS on line $.: $igpos\n" unless (exists($poshash{$igpos}) or $igpos eq 'NONE');
+	print "POS strings don't match on line $.: $igpos vs $pos\n" unless ($igpos eq 'NONE' or (exists($poshash{$igpos}) and $poshash{$igpos} eq $pos));
 	$fgb =~ s/[.^].*//;
 	$igw =~ s/[0-9]$//;
 	print "IG/FGB words don't match on line $.: $igw vs $fgb\n" unless ($fgb eq $igw or $fgb eq 'Luan');
+	if ($pos eq '') {
+		print "missing POS field on line $.: $ig\n" unless ($igpos eq 'u' or $igpos eq 'pronm' or $igw =~ m/ / or $igw =~ m/^-/);
+	}
 }
 close DROICHEAD;
 
