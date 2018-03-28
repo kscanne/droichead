@@ -1,6 +1,7 @@
 #!/bin/bash
 TMPFILE=`mktemp`
 cat droichead.tsv | cut -f 2,3,4,5 | sort -k1,1 > $TMPFILE
+mkdir -p dist
 egrep '^[AaÁá]' $TMPFILE | perl tsv2html.pl > dist/A-data.html
 egrep '^[Bb]' $TMPFILE | perl tsv2html.pl > dist/B-data.html
 egrep '^[Cc]' $TMPFILE | perl tsv2html.pl > dist/C-data.html
