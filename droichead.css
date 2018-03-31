@@ -1,6 +1,14 @@
-a {
+div.threecolumn {
+  font-size: 66%;
+}
+
+div.content a {
   text-decoration: none;
 }
+
+/* return to default behaviors */
+div.content a:link { color: #0000EE; }
+div.content a:visited { color: #551A8B; }
 
 div.threecolumn {
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
