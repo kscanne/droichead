@@ -19,6 +19,17 @@ div.threecolumn {
   column-rule-width: 1px;
 }
 
+@media (max-width: 750px) {
+div.threecolumn {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+  column-gap: 16px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+}
+}
+
 div.entry {
   padding-left: 5px;
   margin: 2px;
