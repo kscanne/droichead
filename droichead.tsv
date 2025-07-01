@@ -1481,7 +1481,7 @@ blosc_nm	blosc	fir	6183	1 blosc
 bloscarnach_nf	bloscarnach	bain	6081	blastarnach
 bloscbhéim_nf	bloscbhéim	bain	6183	1 blosc
 blúire_nm	blúire	fir	6195	blúire
-bó_excl	bó	int	6201	bó
+bó2_nf	bó	bain	6201	bó
 bó-aire_nm	bó-aire	fir	6204	bóaire
 boc_nm	boc	fir	6218	2 boc
 bocánach_nm	bocánach	fir	6234	bocánach
@@ -9155,11 +9155,11 @@ má_nf	má	bain	31274	mag
 má_conj	má	cón	31164	3 má, ma
 má_prep	má	rf	22333	fo, fa, fá
 má_prep	má	rf	27284	imb, imm
-mac_nm	mac	fir	31168	mác, máca
+mac_nm	mac	fir	31166	1 mac, macc
 macacht_nf	macacht	bain	31171	mac(c)acht
 macacht_nf	macacht	bain	31189	mac(c)dacht
 macall_nm	macall	fir	31173	mac(c)all
-macalla_nm	macalla	fir	31168	mác, máca
+macalla_nm	macalla	fir	31166	1 mac, macc
 macán_nm	macán	fir	31176	mac(c)án
 macánta_a	macánta	aid	31178	mac(c)ánta
 macántacht_nf	macántacht	bain	31179	mac(c)ántacht
@@ -9169,7 +9169,7 @@ macaomhacht_nf	macaomhacht	bain	31185	maccoímdacht
 macaomhacht_nf	macaomhacht	bain	31186	maccoímnacht
 macasamhail_nf	macasamhail	bain	31220	mac(c)samla
 mac-chléireach_nm	mac-chléireach	fir	31182	maccléirech
-macghníomh_nm	macghníomh	fir	31168	mác, máca
+macghníomh_nm	macghníomh	fir	31166	1 mac, macc
 macha_nm	macha	fir	31192	1 macha, machad
 machaire_nm	machaire	fir	31197	machaire
 machnaigh_v	machnaigh	br	31206	machtaigid
@@ -9177,7 +9177,7 @@ machnaigh_v	machnaigh	br	31208	machtnaigid
 machnamh_nm	machnamh	fir	31210	machtnamh
 machnamh_nm	machnamh	fir	31211	machtnugad
 macht_v	macht	br	31201	1 macht
-macleabhar_nm	macleabhar	fir	31168	mác, máca
+macleabhar_nm	macleabhar	fir	31166	1 mac, macc
 maclog_nm	maclog	fir	31212	macloc
 macnas_nm	macnas	fir	31213	macnas
 macnasach_a	macnasach	aid	31214	macnasach, macnaisech
@@ -13093,7 +13093,7 @@ tíoránta_a	tíoránta	aid	40945	tíránta
 tíos_nm	tíos	fir	40743	tiges
 tíosach_nm	tíosach	fir	40744	tigesach
 tír_nf	tír	bain	40940	1 tír
-mac tíre	mac tíre		31168	mác, máca
+mac tíre	mac tíre		31166	1 mac, macc
 tirim_a	tirim	aid	40958	tírim, tirim
 tíriúil_a	tíriúil	aid	40949	1 tírda
 tisis_nf	tisis	bain	40980	tisis
